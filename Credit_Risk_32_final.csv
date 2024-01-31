@@ -1,0 +1,905 @@
+ID,Checking.Acct,Credit History,Loan Reason,Savings_Acct,Employment,Personal_Status,Housing,Job.Type,Foreign.National,Months.since.Checking.Acct.opened,Residence.Time.In.current.district,Age,Credibility_score,check,Reg State,Credit.Standing
+1,No Acct,All Paid,Car New,Low,Medium,Single,Own,Management,No,7,3,50.8,127.5054471,1,Ind,Good
+2,0Balance,Current,Car New,Low,Short,Divorced,Own,Skilled,No,16,2,28,70.05887485,0,Different,Bad
+3,0Balance,Current,Car New,No Acct,Long,Divorced,Own,Skilled,No,25,2,28,70.20460101,0,Different,Bad
+4,0Balance,Current,Furniture,No Acct,Long,,Own,Skilled,No,31,4,35.4,89.28147136,1,Same,Good
+5,No Acct,All Paid,Small Appliance,No Acct,Long,Single,Other,Skilled,Yes,7,4,40.3,101.0026818,1,Ind,Good
+6,Low,Current,Car New,MedLow,Very Short,Divorced,Own,Unskilled,No,13,2,28.5,71.60682121,1,Different,Good
+7,0Balance,All Paid,Car New,Low,Long,Married,Own,Skilled,Yes,22,3,36.9,92.45354648,1,Same,Good
+8,Low,Bank Paid,Education,Low,Medium,Divorced,Other,Unskilled,No,25,4,34.4,86.71636254,1,Different,Good
+9,0Balance,All Paid,Car Used,Low,Long,Single,,Skilled,Yes,25,4,67.4,168.6552232,1,Ind,Good
+10,No Acct,Delay,Car Used,Low,Short,Married,Rent,Skilled,Yes,13,4,44.6,112.1341248,1,Same,Good
+11,Low,Critical,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,13,3,24,60.34304126,0,Different,Bad
+12,0Balance,Current,Furniture,Low,Short,Single,Own,Skilled,No,19,3,41,102.5724148,0,Ind,Bad
+13,Low,All Paid,Furniture,Low,Long,Single,Rent,Skilled,Yes,13,4,28.1,70.75214088,1,Ind,Good
+14,0Balance,Current,Car New,Low,Medium,Divorced,Own,Skilled,Yes,13,3,35,88.38949288,0,Different,Bad
+15,0Balance,Current,Car Used,Low,Long,Single,Other,Skilled,Yes,37,4,45.2,113.5661998,1,Ind,Good
+16,0Balance,Bank Paid,Education,Low,Long,Divorced,,Skilled,No,7,4,41.9,105.2576675,1,Different,Good
+17,0Balance,Critical,Car New,Low,Long,Single,Own,Unskilled,Yes,25,4,59,148.2359152,0,Ind,Bad
+18,0Balance,All Paid,Furniture,No Acct,Medium,Single,Own,Management,Yes,40,4,34.4,86.32626483,1,Ind,Good
+19,No Acct,All Paid,Business,MedLow,Short,Single,Own,Unskilled,Yes,25,3,27.9,70.00387141,1,Ind,Good
+20,0Balance,Current,Furniture,Low,Short,Single,Own,Unskilled,Yes,7,2,35,88.36456051,0,Ind,Bad
+21,No Acct,Current,Large Appliance,MedHigh,Medium,Single,Own,Skilled,Yes,16,3,42.5,106.5792495,1,Ind,Good
+22,0Balance,Current,Car Used,Low,short,Single,Own,Skilled,Yes,37,2,25,63.36976215,0,Ind,Bad
+23,Low,Current,Car Used,No Acct,short,Single,Own,Skilled,Yes,13,2,34.8,87.54539611,1,Ind,Good
+24,No Acct,Current,Car New,No Acct,Medium,Divorced,Rent,Skilled,Yes,23,4,30.2,76.30303017,1,Different,Good
+25,Low,Critical,Business,Low,Long,Divorced,,Management,Yes,28,4,41,103.2722033,0,Different,Bad
+26,Low,Critical,Business,MedLow,Short,Divorced,Rent,Unskilled,Yes,31,4,25,63.48586912,0,Different,Bad
+27,0Balance,Critical,Education,Low,Short,Single,Own,Skilled,Yes,41,3,26,65.56579228,0,Ind,Bad
+28,0Balance,Current,Small Appliance,High,Very Short,Divorced,Own,Skilled,Yes,22,2,33.8,84.84155488,1,Different,Good
+29,No Acct,Current,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,7,4,32.2,80.99851235,1,Different,Good
+30,Low,Current,Car New,Low,Long,Single,Other,Management,Yes,37,2,62.8,157.0240262,1,Ind,Good
+31,Low,All Paid,Car New,Low,Very Short,Single,Own,Unskilled,Yes,13,3,52.2,130.88742,1,Ind,Good
+32,Low,Bank Paid,Car New,MedLow,Medium,Single,Own,Skilled,Yes,10,3,34.3,86.09064618,1,Ind,Good
+33,Low,Current,Business,Low,Long,Divorced,Own,Skilled,Yes,22,4,43.5,108.892381,1,Different,Good
+34,Low,Current,Small Appliance,Low,Long,Married,Own,Unskilled,Yes,19,2,31.1,78.07015628,1,Same,Good
+35,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,7,2,57.4,143.7200978,1,Ind,Good
+36,Low,Current,Furniture,No Acct,Long,Divorced,Own,Skilled,Yes,13,2,24,60.64106024,0,Different,Bad
+37,High,All Paid,Small Appliance,No Acct,Medium,,Own,Skilled,Yes,11,2,27.9,70.0961876,1,Ind,Good
+38,Low,Current,Small Appliance,Low,Very Short,,Own,Skilled,Yes,8,1,51.8,129.932389,1,Different,Good
+39,High,Critical,Car New,MedHigh,Medium,Married,Own,Skilled,Yes,13,2,27,67.5241078,0,Same,Bad
+40,0Balance,Delay,Car New,Low,short,Single,Other,Skilled,No,25,4,52,130.6491789,0,Ind,Bad
+41,No Acct,Delay,Car Used,No Acct,Medium,Single,Own,Management,Yes,37,2,34.2,85.55868125,1,Ind,Good
+42,Low,Current,Car New,No Acct,Short,Single,Other,Skilled,Yes,37,4,36,90.14454603,0,Ind,Bad
+43,No Acct,Current,Small Appliance,Low,Unemployed,Divorced,Rent,Skilled,Yes,19,4,28.9,72.95256825,1,Ind,
+44,0Balance,Critical,Furniture,Low,Short,Divorced,Rent,Skilled,Yes,19,4,23,57.63218806,0,Ind,Bad
+45,0Balance,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,43,3,38.9,98.07550654,1,Ind,
+46,Low,Current,Car New,Low,Medium,Married,Own,Unskilled,Yes,13,3,24,60.47240114,0,Different,Bad
+47,No Acct,Current,Car Used,No Acct,Short,Divorced,Other,Skilled,No,25,4,47,118.4108018,0,Different,Bad
+48,No Acct,All Paid,Small Appliance,Low,Short,,Own,Skilled,Yes,31,2,38.7,97.48614757,1,Different,Good
+49,0Balance,Critical,Car Used,Low,Long,Single,Other,Skilled,Yes,49,4,45,112.5353917,0,Ind,Bad
+50,No Acct,Current,Car New,MedHigh,Long,single,Own,Skilled,No,37,4,41.4,103.7578323,1,Ind,Good
+51,0Balance,Bank Paid,Furniture,Low,Medium,single,Own,Skilled,Yes,25,4,29.4,74.31312824,1,Ind,Good
+52,0Balance,Current,Car Used,Low,Medium,single,Other,Skilled,Yes,49,4,38,95.58976776,0,Ind,Bad
+53,0Balance,Current,Small Appliance,MedHigh,long,Married,Own,Skilled,No,13,1,39.3,98.62849687,1,Different,Good
+54,Low,Current,Business,Low,Very Short,Married,Own,Skilled,Yes,9,2,31.6,79.9671673,1,Different,Good
+55,0Balance,Current,Car New,Low,Long,Single,Own,Management,No,7,4,67,167.5623063,0,Ind,Bad
+56,No Acct,All Paid,Small Appliance,No Acct,Short,,Own,Skilled,No,19,3,29,73.06500349,1,Different,Good
+57,Low,Current,Car New,Low,Very Short,Single,Own,Skilled,Yes,25,1,29.5,74.55988316,1,Ind,Good
+58,0Balance,Critical,Small Appliance,Low,Short,Single,Rent,Skilled,Yes,13,2,27,68.21368813,0,Ind,Bad
+59,High,Critical,Small Appliance,No Acct,Short,Single,Other,Skilled,Yes,16,4,38,95.25751694,0,Ind,Bad
+60,0Balance,All Paid,Repairs,MedLow,Long,Single,Own,Skilled,No,10,4,52.8,132.9946613,1,Ind,Good
+61,Low,Current,Small Appliance,Low,Long,,Own,Unskilled,Yes,10,4,32,80.9631503,1,Same,Good
+62,No Acct,Current,Small Appliance,No Acct,Short,Single,Other,Skilled,Yes,13,4,36,90.61557882,0,Ind,Bad
+63,0Balance,Current,Furniture,Low,Long,Single,Rent,Management,No,25,2,38,95.66946073,0,Ind,Bad
+64,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,No,10,2,21,52.8123817,0,Ind,Bad
+65,No Acct,Current,Education,No Acct,,Single,,Unskilled,Yes,37,4,34,85.6498064,0,Same,Bad
+66,No Acct,Delay,Furniture,MedHigh,Medium,Divorced,Own,Skilled,Yes,37,4,45.7,114.4406343,1,Different,Good
+67,Low,Current,Car New,Low,Short,Divorced,Own,Skilled,No,31,2,23,57.51330984,0,Different,Bad
+68,Low,Current,Small Appliance,MedLow,Short,Single,Rent,Skilled,Yes,46,4,20,50.47809319,0,Same,Bad
+69,High,All Paid,Small Appliance,No Acct,long,Single,Own,Unskilled,Yes,31,4,50.4,126.6120092,1,Ind,Good
+70,0Balance,Bank Paid,Small Appliance,Low,Medium,Single,,Unskilled,Yes,25,4,28,70.76654673,1,Ind,Good
+71,Low,Bank Paid,Business,Low,Long,Divorced,Rent,Skilled,Yes,49,3,65.7,164.3507292,1,Different,Good
+72,No Acct,All Paid,Small Appliance,No Acct,long,Single,Own,Skilled,Yes,37,2,51.2,128.7156159,1,Ind,Good
+73,0Balance,Bank Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,37,4,34.6,87.0989218,1,Ind,Good
+74,Low,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,10,2,28,70.98607417,0,Different,Bad
+75,No Acct,All Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,13,4,47.1,118.5145488,1,Ind,Good
+76,High,Current,Small Appliance,Low,Short,Married,Own,Skilled,No,13,1,27.1,68.45919828,1,Same,Good
+77,0Balance,Bank Paid,Car New,Low,Very Short,Single,Own,Skilled,Yes,13,2,47.3,118.6660913,1,Ind,Good
+78,No Acct,Current,Furniture,MedHigh,Long,Single,Own,Skilled,No,25,4,54.3,136.3842039,1,Ind,Good
+79,No Acct,All Paid,Education,No Acct,Short,Divorced,Own,Skilled,Yes,25,2,39.2,98.21715658,1,Different,Good
+80,Low,Delay,Education,Low,Long,Single,Other,Skilled,No,49,4,49,122.5254416,0,Ind,Bad
+81,No Acct,Critical,Car New,Low,Medium,Single,Own,Skilled,Yes,19,2,30,75.95378511,0,Ind,Bad
+82,Low,Delay,Business,No Acct,Medium,Single,Other,Skilled,Yes,49,4,44.9,113.2414467,1,Ind,Good
+83,No Acct,Current,Car New,No Acct,,Single,Own,Skilled,No,37,4,40.3,101.5034226,1,Ind,Good
+84,No Acct,Critical,Furniture,Low,Short,Divorced,Rent,Skilled,Yes,37,4,22,55.73665501,0,Different,Bad
+85,No Acct,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,19,2,31,78.25510199,0,Ind,Bad
+86,0Balance,Critical,Car Used,Low,Very Short,Single,Other,Skilled,Yes,49,4,23,57.95399128,0,Ind,Bad
+87,No Acct,All Paid,Small Appliance,Low,Long,Single,Own,Skilled,Yes,13,4,53.7,135.1786615,1,Ind,Good
+88,Low,Current,Car Used,MedHigh,,Divorced,Rent,Skilled,No,25,4,27,68.17717342,0,Different,Bad
+89,0Balance,Current,Other,Low,Medium,Divorced,Own,Management,No,37,3,43.6,109.8999312,1,Different,Good
+90,0Balance,Critical,Car Used,Low,Medium,Divorced,Other,Unskilled,Yes,49,4,57,143.2182897,0,Different,Bad
+91,0Balance,Bank Paid,Car New,Low,Long,Single,Other,Unskilled,Yes,19,4,38.2,95.54640992,1,Ind,Good
+92,Low,Critical,Small Appliance,Low,Long,Single,Own,Unskilled,Yes,46,2,24,60.09290271,0,Ind,Bad
+93,No Acct,All Paid,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,13,2,32.1,81.17309153,1,Ind,Good
+94,Low,Current,Repairs,Low,Very Short,Divorced,Own,Skilled,No,19,4,75,188.1243607,1,Different,Good
+95,No Acct,Current,Car New,Low,,Divorced,Own,Unemployed,No,7,4,60,150.1398173,1,Different,Good
+96,No Acct,All Paid,Furniture,No Acct,,Married,Own,Skilled,Yes,7,2,28.8,72.73731903,1,Same,Good
+97,0Balance,Delay,Small Appliance,Low,Short,Single,Own,Skilled,No,43,2,25,63.29463031,0,Ind,Bad
+98,0Balance,Current,Furniture,Low,Medium,Single,Own,Skilled,No,37,2,41.9,104.7569833,1,Ind,Good
+99,No Acct,Current,Car New,Low,,Single,Rent,Skilled,No,7,3,27.4,68.6045762,1,Ind,Good
+100,0Balance,Critical,Car New,Low,Very Short,Divorced,Rent,Skilled,Yes,19,4,32,80.4322841,0,Different,Bad
+101,High,Current,Car New,MedLow,Medium,Divorced,Other,Unskilled,No,11,4,53.6,134.5029358,1,Different,Good
+102,0Balance,Current,Car New,Low,Long,Single,Own,Skilled,No,13,2,30.6,77.10730741,1,Ind,Good
+103,0Balance,Critical,Car New,Low,,Single,Rent,Skilled,Yes,13,4,42,105.8831722,0,Ind,Bad
+104,High,Current,Furniture,Low,,Divorced,Own,Skilled,Yes,11,2,26.3,66.55514989,1,Different,Good
+105,0Balance,Current,Small Appliance,Low,Long,Divorced,Rent,Skilled,No,19,4,30.5,76.58887372,1,Different,Good
+106,Low,Current,Small Appliance,MedLow,,Married,Own,Skilled,No,73,2,23,57.87684046,0,Same,Bad
+107,0Balance,Current,Furniture,High,,Single,Own,Skilled,Yes,19,2,32.5,81.49182757,1,Ind,Good
+108,0Balance,All Paid,Car New,Low,Medium,Single,Own,Skilled,Yes,11,3,53.9,135.1780428,1,Ind,Good
+109,No Acct,Current,Furniture,MedHigh,,Divorced,Rent,Unskilled,No,13,4,28,70.6751809,0,Different,Bad
+110,Low,Delay,Car New,Low,Very Short,Single,Other,Skilled,No,37,4,56,140.3799074,0,Ind,Bad
+111,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,Yes,10,3,29,73.49475196,1,Ind,Good
+112,0Balance,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,13,4,47,118.4356545,0,Ind,Bad
+113,No Acct,Critical,Business,Low,Short,Single,Own,Skilled,Yes,19,2,35,87.96170329,0,Ind,Bad
+114,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,37,4,42.1,105.59058,1,Ind,Good
+115,0Balance,Critical,Car New,Low,Short,Divorced,Own,Skilled,Yes,13,2,28,70.20093077,0,Different,Bad
+116,No Acct,Current,Furniture,Low,Short,Single,Other,Skilled,Yes,19,4,46,115.1020901,0,Ind,Bad
+117,Low,Current,Education,No Acct,Short,Married,Own,Skilled,Yes,37,2,26,65.61645669,0,Same,Bad
+118,Low,Critical,Education,Low,Long,Divorced,Own,Management,Yes,10,3,33,82.696848,0,Different,Bad
+119,No Acct,All Paid,Car New,Low,Short,Divorced,Own,Skilled,Yes,19,3,41.5,104.6144357,1,Different,Good
+120,0Balance,Current,Retraining,Low,Medium,Married,Rent,Skilled,No,13,4,24.4,61.31490024,1,Same,Good
+121,Low,Current,Furniture,Low,Medium,Divorced,Own,Skilled,No,25,3,42,105.2245305,0,Different,Bad
+122,No Acct,Delay,Car New,No Acct,Long,Married,Own,Skilled,Yes,25,4,55.6,139.1322783,1,Same,Good
+123,0Balance,Current,Car New,Low,Medium,Divorced,Rent,Skilled,No,25,4,26.7,66.89373069,1,Different,Good
+124,No Acct,Delay,Car New,Low,Long,Single,Own,Unskilled,Yes,25,4,46,115.5055775,0,Ind,Bad
+125,0Balance,All Paid,Car New,Low,Short,Single,Rent,Skilled,Yes,12,2,41.1,103.2906433,1,Ind,Good
+126,High,Current,Car New,Low,Long,Divorced,Own,Management,Yes,19,2,27,67.88662417,1,Different,Good
+127,Low,Bank Paid,Car Used,Low,Unemployed,Single,Other,Management,No,43,2,60.2,150.8520574,1,Ind,Good
+128,0Balance,Current,Car Used,No Acct,Long,Single,Other,Skilled,No,37,4,46,115.5792804,0,Ind,Bad
+129,No Acct,Current,Car New,No Acct,Short,Single,Other,Skilled,Yes,61,4,38,95.33772331,1,Ind,Good
+130,No Acct,All Paid,Education,Low,Long,Divorced,Other,Unskilled,Yes,13,4,61.4,153.6969054,1,Different,Good
+131,No Acct,Delay,Business,MedLow,Short,Single,Own,Unskilled,Yes,7,2,41.2,103.8316842,1,Ind,Good
+132,No Acct,Current,Business,High,Short,Single,Own,Management,No,25,3,53,133.4545043,0,Ind,Bad
+133,Low,Current,Car New,No Acct,Short,Divorced,Own,Skilled,No,19,2,32,80.50210212,0,Different,Bad
+134,0Balance,Current,Small Appliance,Low,Unemployed,Single,Own,Management,No,25,2,35.4,89.04590654,1,Ind,Good
+135,No Acct,Current,Education,Low,Very Short,Divorced,Own,Skilled,Yes,7,2,63.7,159.3148347,1,Different,Good
+136,Low,Bank Paid,Other,MedLow,Long,Divorced,Other,Management,Yes,61,4,62,155.8461721,1,Different,Good
+137,0Balance,Bank Paid,Furniture,Low,Short,Single,Own,Skilled,Yes,19,3,48.3,120.9272075,1,Ind,Good
+138,0Balance,Current,Furniture,Low,Long,Divorced,Own,Skilled,Yes,7,1,57.4,143.8475992,1,Different,Good
+139,No Acct,Current,Furniture,Low,Very Short,Single,Own,Unskilled,Yes,16,3,32.8,82.21198695,1,Ind,Good
+140,0Balance,Current,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,16,1,52,130.1413206,1,Different,Good
+141,Low,Current,Small Appliance,High,Medium,Single,Own,Skilled,Yes,49,2,26,65.73278618,0,Ind,Bad
+142,No Acct,All Paid,Small Appliance,Low,Medium,Divorced,Own,Skilled,Yes,31,2,28.3,71.10164696,1,Different,Good
+143,No Acct,All Paid,Repairs,Low,Long,Single,Other,Skilled,Yes,25,4,48.1,120.2596487,1,Ind,Good
+144,No Acct,Current,Furniture,MedHigh,Long,Single,Rent,Skilled,Yes,25,3,36.5,91.92499771,1,Ind,Good
+145,No Acct,Current,Car New,MedHigh,Medium,Divorced,Own,Management,No,22,2,33.9,85.453817,1,Different,Good
+146,No Acct,Critical,Car New,MedHigh,Short,Single,Other,Skilled,Yes,49,2,43,107.6255934,0,Ind,Bad
+147,No Acct,Current,Small Appliance,MedLow,Medium,Single,Own,Skilled,No,13,1,34.5,87.14020139,1,Ind,Good
+148,Low,Delay,Business,MedLow,Medium,Single,Rent,Management,Yes,25,4,43.6,109.6280632,1,Ind,Good
+149,0Balance,All Paid,Car Used,Low,Long,Single,Other,Management,Yes,31,4,39.6,99.68623741,1,Ind,Good
+150,No Acct,Delay,Business,Low,Very Short,Single,Own,Skilled,Yes,25,2,26,65.21911412,0,Ind,Bad
+151,High,Critical,Car New,No Acct,Medium,Single,Own,Unskilled,Yes,25,2,36,90.58103256,0,Ind,Bad
+152,Low,Delay,Car New,MedLow,Long,Single,Own,Management,Yes,37,4,48.4,121.0421556,1,Ind,Good
+153,No Acct,Current,Furniture,MedLow,Very Short,Divorced,Rent,Skilled,Yes,10,4,27.1,68.37786763,1,Different,Good
+154,Low,Current,Other,Low,Short,Single,Own,Management,Yes,25,3,28,70.92333377,0,Ind,Bad
+155,Low,Current,Business,Low,Short,Single,Own,Skilled,Yes,49,2,22,55.25747176,0,Ind,Bad
+156,0Balance,Current,Furniture,Low,Long,Single,Own,Skilled,Yes,37,2,43.4,108.929452,1,Ind,Good
+157,High,Critical,Education,Low,Very Short,Divorced,Rent,Skilled,Yes,22,1,32,80.76285785,0,Different,Bad
+158,Low,Current,Business,Low,Very Short,Divorced,Own,Skilled,Yes,28,1,39.8,100.1955871,1,Different,Good
+159,No Acct,Current,Small Appliance,No Acct,Long,Single,Own,Skilled,Yes,16,2,37.5,93.79085236,1,Ind,Good
+160,0Balance,Current,Car Used,Low,Unemployed,Single,Other,Management,Yes,25,2,32.4,81.66861029,1,Ind,Good
+161,Low,Critical,Car New,Low,Very Short,Divorced,Rent,Unemployed,Yes,16,1,25,62.63520103,0,Different,Bad
+162,High,Delay,Car New,Low,Short,Divorced,Own,Skilled,No,13,2,38.4,96.60597901,1,Different,Good
+163,No Acct,All Paid,Small Appliance,Low,Medium,Single,Own,Unskilled,Yes,5,1,45.7,115.0098868,1,Ind,Good
+164,No Acct,Bank Paid,Small Appliance,MedHigh,Long,Single,Own,Unskilled,No,7,4,52,130.7902216,1,Ind,Good
+165,0Balance,Current,Furniture,Low,Short,Divorced,Rent,Skilled,Yes,13,4,19,48.17113122,0,Different,Bad
+166,0Balance,Current,Business,Low,Very Short,Divorced,Rent,Skilled,Yes,49,4,23,57.92921104,0,Different,Bad
+167,Low,Current,Small Appliance,Low,Medium,Married,Own,Unskilled,Yes,7,3,27.6,69.7769726,1,Same,Good
+168,No Acct,All Paid,Small Appliance,Low,Short,Single,Own,Skilled,Yes,16,2,30.4,76.95433826,1,Ind,Good
+169,No Acct,All Paid,Car Used,Low,Long,Single,Own,Management,Yes,22,4,43.9,109.9165132,1,Ind,Good
+170,No Acct,Current,Furniture,Low,Very Short,Divorced,Rent,Unskilled,Yes,5,3,29.1,73.25491094,1,Different,Good
+171,No Acct,Current,Business,Low,Medium,Single,Own,Skilled,Yes,19,1,36.1,90.99784095,1,Ind,Good
+172,No Acct,Current,Car Used,MedLow,Long,Single,Own,Management,Yes,40,2,46.7,116.7600814,1,Ind,Good
+173,No Acct,Current,Car New,No Acct,Long,Divorced,Other,Management,Yes,13,4,54.4,136.0044562,1,Different,Good
+174,0Balance,Current,Furniture,Low,Medium,Divorced,Rent,Unskilled,Yes,22,4,31.9,80.19654482,1,Different,Good
+175,0Balance,Delay,Small Appliance,Low,Very Short,Divorced,Rent,Unskilled,Yes,25,2,28,70.0184198,0,Different,Bad
+176,0Balance,Current,Car New,Low,Very Short,Single,Own,Unskilled,Yes,13,1,32,80.436866,0,Ind,Bad
+177,No Acct,All Paid,Car Used,No Acct,Short,Single,Own,Management,No,37,2,33.3,83.59625265,1,Ind,Good
+178,No Acct,Critical,Small Appliance,No Acct,Long,Divorced,Own,Unskilled,No,13,3,32,80.41474684,0,Different,Bad
+179,0Balance,Current,Furniture,Low,Medium,Divorced,Rent,Skilled,No,31,4,22,55.01290242,0,Different,Bad
+180,0Balance,Current,Education,Low,Very Short,Divorced,Own,Skilled,No,13,4,56.5,141.2763547,1,Different,Good
+181,0Balance,Current,Large Appliance,MedLow,Unemployed,Divorced,Own,Skilled,No,13,3,27.4,68.62687926,1,Different,Good
+182,Low,Critical,Small Appliance,Low,Short,Married,Own,Skilled,Yes,19,2,32,80.34727711,0,Same,Bad
+183,No Acct,All Paid,Education,MedLow,Short,Divorced,Own,Skilled,Yes,16,3,32.9,83.02868764,1,Different,Good
+184,0Balance,Bank Paid,Small Appliance,Low,Short,Divorced,Own,Unskilled,Yes,13,4,30.3,76.48380647,1,Different,Good
+185,No Acct,Current,Small Appliance,Low,Short,Single,Own,Skilled,Yes,13,4,55.5,138.9941308,1,Ind,Good
+186,0Balance,Current,Car Used,MedHigh,Unemployed,Divorced,Rent,Unemployed,Yes,7,2,25.8,65.19019622,1,Different,Good
+187,No Acct,All Paid,Car Used,High,Long,Single,Rent,Skilled,Yes,16,4,26,65.29925147,1,Ind,Good
+188,High,Delay,Business,Low,Long,Single,Own,Management,Yes,31,4,65,162.9682198,0,Ind,Bad
+189,No Acct,Current,Furniture,Low,Short,Single,Rent,Unskilled,Yes,11,2,24,60.4354797,0,Ind,Bad
+190,0Balance,Delay,Car New,Low,Unemployed,Single,Other,Skilled,Yes,25,2,42,105.9334428,0,Ind,Bad
+191,No Acct,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,19,2,33.8,85.4149972,1,Ind,Good
+192,Low,Bank Paid,Car New,MedLow,Very Short,Divorced,Own,Unskilled,Yes,7,1,41.2,103.1056966,1,Different,Good
+193,Low,Current,Small Appliance,Low,Very Short,Married,Rent,Skilled,Yes,13,1,22,55.63968746,0,Same,Bad
+194,Low,Critical,Other,Low,Short,Single,Own,Management,Yes,25,3,38,95.11630311,0,Ind,Bad
+195,No Acct,Current,Business,No Acct,Short,Divorced,Own,Skilled,Yes,49,2,37,93.4487064,0,Different,Bad
+196,No Acct,Current,Small Appliance,MedLow,Unemployed,Divorced,Own,Skilled,Yes,14,4,69.6,174.2559491,1,Different,Good
+197,Low,Current,Furniture,High,Very Short,Divorced,Rent,Unskilled,Yes,13,4,22.8,57.05992871,1,Different,Good
+198,No Acct,Critical,Car New,Low,Short,Divorced,Own,Skilled,Yes,37,2,24,60.47355237,0,Different,Bad
+199,No Acct,Critical,Car New,No Acct,Short,Divorced,Own,Skilled,Yes,22,4,28,70.02173555,0,Different,Bad
+200,Low,Bank Paid,Car New,MedLow,Unemployed,Single,Own,Management,Yes,16,2,37.2,93.24106946,1,Ind,Good
+201,No Acct,Current,Education,No Acct,Long,Single,Own,Unskilled,Yes,10,4,69.4,173.7378314,1,Ind,Good
+202,No Acct,All Paid,Small Appliance,Low,Short,Single,Other,Skilled,Yes,16,4,42.7,107.3479878,1,Ind,Good
+203,No Acct,Delay,Business,MedHigh,Very Short,Single,Own,Unskilled,Yes,22,2,45.3,113.4588644,1,Ind,Good
+204,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,25,2,38.5,96.43718421,1,Ind,Good
+205,No Acct,Delay,Furniture,Low,Medium,Divorced,Own,Skilled,Yes,19,1,21,52.79600181,0,Different,Bad
+206,Low,Current,Small Appliance,No Acct,Unemployed,Single,Own,Management,Yes,13,1,51,128.1287576,0,Ind,Bad
+207,0Balance,Bank Paid,Car New,Low,Unemployed,Divorced,Rent,Unemployed,Yes,25,4,36,90.52541561,1,Different,Good
+208,0Balance,Current,Car New,No Acct,Short,Divorced,Rent,Skilled,Yes,25,4,24,60.07838395,0,Different,Bad
+209,Low,Critical,Car New,MedLow,Very Short,Divorced,Own,Skilled,Yes,19,3,27,68.48996959,0,Different,Bad
+210,Low,All Paid,Business,No Acct,Medium,Single,Own,Skilled,Yes,25,3,38,95.35297482,1,Ind,Good
+211,No Acct,Delay,Car Used,High,Short,Single,Own,Skilled,No,28,2,34.8,87.39810818,1,Ind,Good
+212,0Balance,Current,Furniture,Low,Very Short,Divorced,Rent,Unskilled,Yes,25,4,22,55.01366183,0,Different,Bad
+213,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,Yes,7,4,32.2,81.03993437,1,Ind,Good
+214,No Acct,All Paid,Small Appliance,High,Long,Single,Own,Skilled,Yes,19,4,52.4,131.2535701,1,Ind,Good
+215,No Acct,Current,Furniture,Low,Very Short,Married,Own,Unskilled,Yes,19,1,42,105.0028789,0,Same,Bad
+216,No Acct,Current,Furniture,Low,Medium,Divorced,Own,Unskilled,Yes,13,4,38,95.79473744,1,Different,Good
+217,No Acct,Current,Business,Low,Medium,Single,Own,Unskilled,Yes,6,4,80.8,202.9749739,1,Ind,Good
+218,No Acct,Delay,Business,Low,Very Short,Divorced,Own,Skilled,Yes,37,1,27,67.69036236,0,Different,Bad
+219,0Balance,All Paid,Car New,Low,Long,Single,Own,Skilled,Yes,22,4,69.4,174.1127858,1,Ind,Good
+220,No Acct,All Paid,Small Appliance,MedHigh,Long,Single,Own,Management,Yes,19,3,36.4,91.56318569,1,Ind,Good
+221,High,All Paid,Car Used,MedHigh,Short,Single,Own,Skilled,Yes,16,2,41.5,104.4388157,1,Ind,Good
+222,Low,All Paid,Furniture,High,Medium,Single,Own,Skilled,Yes,22,2,39.7,99.48135268,1,Ind,Good
+223,No Acct,All Paid,Repairs,Low,Short,Divorced,Own,Skilled,Yes,25,2,34.4,86.88624258,1,Different,Good
+224,High,Current,Car New,High,Very Short,Married,Own,Unemployed,Yes,7,2,33.6,84.7228382,1,Same,Good
+225,0Balance,All Paid,Car New,Low,Very Short,Single,Own,Unskilled,No,7,4,48.2,120.5541121,1,Ind,Good
+226,No Acct,All Paid,Car New,Low,Unemployed,Divorced,Own,Unemployed,Yes,13,2,39.4,99.25650142,1,Different,Good
+227,Low,Current,Furniture,Low,Short,Divorced,Own,Unskilled,Yes,11,2,30,75.84515448,0,Different,Bad
+228,Low,Current,Repairs,Low,Very Short,Single,Rent,Unskilled,Yes,37,1,37,92.89105371,1,Ind,Good
+229,0Balance,Current,Small Appliance,Low,Long,Single,Own,Unskilled,Yes,13,4,57.4,144.0070278,1,Ind,Good
+230,Low,Delay,Car Used,Low,Long,Single,Own,Management,No,28,2,33.1,82.95353881,1,Ind,Good
+231,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,13,1,28.4,71.86393701,1,Different,Good
+232,0Balance,Current,Small Appliance,Low,Very Short,Divorced,Rent,Skilled,Yes,10,4,21,52.56134928,0,Different,Bad
+233,0Balance,Current,Car Used,Low,Medium,Single,Own,Skilled,Yes,49,3,33.6,84.73153909,1,Ind,Good
+234,Low,Current,Business,MedLow,Long,Divorced,Rent,Unskilled,Yes,22,2,60,150.5803587,0,Different,Bad
+235,0Balance,Critical,Furniture,Low,Long,Single,Rent,Skilled,Yes,25,4,22,55.98546097,0,Ind,Bad
+236,0Balance,Current,Large Appliance,Low,Short,Married,Own,Unskilled,Yes,19,3,46,115.0915566,0,Same,Bad
+237,0Balance,Critical,Education,Low,Short,Divorced,Own,Management,Yes,37,2,24,60.55811876,0,Different,Bad
+238,No Acct,All Paid,Car Used,High,Short,Single,Own,Skilled,Yes,25,2,31.5,79.29795651,1,Ind,Good
+239,No Acct,Current,Car New,No Acct,Short,Single,Rent,Skilled,Yes,19,4,67,168.0372214,0,Ind,Bad
+240,No Acct,Current,Small Appliance,Low,Short,Single,Other,Management,Yes,19,2,33.6,84.06730779,1,Ind,Good
+241,No Acct,Current,Car New,Low,Long,Single,Own,Management,Yes,13,4,45.3,113.632583,1,Ind,Good
+242,No Acct,All Paid,Car Used,Low,Medium,Single,Own,Skilled,No,25,3,41.2,103.9907047,1,Ind,Good
+243,0Balance,Current,Car New,Low,Very Short,Single,Own,Skilled,Yes,16,3,34.9,88.06508801,1,Ind,Good
+244,No Acct,Current,Car New,Low,Short,Divorced,Rent,Skilled,No,28,3,20,50.41233195,0,Different,Bad
+245,Low,Critical,Furniture,Low,Very Short,Divorced,Own,Unskilled,No,25,4,24,60.11599445,0,Different,Bad
+246,No Acct,All Paid,Small Appliance,MedLow,Unemployed,Divorced,Own,Unskilled,No,12,4,64.8,162.5820719,1,Different,Good
+247,0Balance,Current,Repairs,Low,Very Short,Divorced,Own,Unskilled,No,31,1,33,82.84623933,0,Different,Bad
+248,Low,Current,Small Appliance,MedHigh,Short,Single,Own,Unskilled,No,13,3,65,162.8741749,0,Ind,Bad
+249,High,Bank Paid,Small Appliance,High,Short,Divorced,Rent,Skilled,Yes,13,3,49,122.6673854,1,Different,Good
+250,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,No,19,2,23,57.71469173,0,Different,Bad
+251,No Acct,All Paid,Furniture,Low,Long,Single,Own,Skilled,No,25,4,37.5,94.5108354,1,Ind,Good
+252,Low,Bank Paid,Car New,MedLow,Short,Married,Rent,Skilled,Yes,16,2,26.8,67.76784741,1,Same,Good
+253,No Acct,Current,Repairs,Low,Very Short,Divorced,Own,Skilled,Yes,19,4,22,55.21396078,0,Different,Bad
+254,0Balance,Bank Paid,Other,No Acct,Long,Single,Own,Management,Yes,25,3,39,98.30905422,0,Ind,Bad
+255,No Acct,Current,Small Appliance,MedLow,Long,Single,Own,Skilled,Yes,25,4,37.8,95.29081333,1,Ind,Good
+256,Low,Critical,Small Appliance,MedHigh,Short,Single,Own,Unskilled,Yes,28,2,22,55.62168909,0,Ind,Bad
+257,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,22,2,24,60.54012422,0,Different,Bad
+258,No Acct,All Paid,Furniture,No Acct,Long,Single,Rent,Skilled,Yes,13,4,51.9,130.6040769,1,Ind,Good
+259,No Acct,All Paid,Business,No Acct,Long,Single,Rent,Unskilled,Yes,13,4,60.5,151.5044162,1,Ind,Good
+260,Low,All Paid,Small Appliance,No Acct,Long,Single,Own,Skilled,Yes,16,4,53.2,133.1871004,1,Ind,Good
+261,Low,Delay,Car New,MedLow,Long,Single,Other,Skilled,No,37,3,32.1,80.46448882,1,Ind,Good
+262,0Balance,Current,Car New,Low,Medium,Single,Own,Skilled,Yes,25,3,40.5,101.4415003,1,Ind,Good
+263,Low,Critical,Car New,Low,Long,Single,Own,Skilled,Yes,19,4,35,88.37734791,0,Ind,Bad
+264,0Balance,Current,Furniture,Low,Unemployed,Single,Own,Unemployed,Yes,19,1,29.6,74.8670909,1,Ind,Good
+265,Low,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,No,7,3,66.9,168.1873711,1,Different,Good
+266,No Acct,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,13,1,25,63.39328053,0,Different,Bad
+267,Low,Current,Furniture,Low,Short,Divorced,Own,Skilled,Yes,9,4,23,58.26239867,0,Different,Bad
+268,0Balance,Current,Large Appliance,Low,Short,Single,Own,Skilled,Yes,49,4,53,133.3065714,0,Ind,Bad
+269,No Acct,All Paid,Car Used,No Acct,Short,Single,Own,Management,Yes,25,4,49.3,123.3913198,1,Ind,Good
+270,0Balance,All Paid,Small Appliance,High,Long,Divorced,Rent,Management,Yes,25,4,60.7,152.6459017,1,Different,Good
+271,No Acct,All Paid,Furniture,Low,Short,Divorced,Own,Skilled,Yes,19,2,30.9,77.51159794,1,Different,Good
+272,High,Current,Furniture,Low,Short,Single,Own,Skilled,No,25,2,25,62.62386632,0,Ind,Bad
+273,Low,Critical,Business,Low,Short,Single,Own,Unskilled,Yes,25,4,35,88.45345682,0,Ind,Bad
+274,High,Current,Furniture,Low,Short,Single,Own,Unskilled,Yes,19,1,33,82.82891994,0,Ind,Bad
+275,Low,Current,Car New,Low,Very Short,Divorced,Rent,Skilled,Yes,13,1,32.8,82.04825898,1,Different,Good
+276,Low,Current,Education,Low,Short,Single,Other,Skilled,Yes,61,4,41,103.3968042,0,Ind,Bad
+277,0Balance,Current,Car New,Low,Very Short,Divorced,Own,Unskilled,Yes,19,2,22,55.25587234,0,Different,Bad
+278,0Balance,Current,Small Appliance,Low,Very Short,Divorced,Own,Skilled,Yes,25,4,34,85.5869331,0,Different,Bad
+279,Low,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,13,1,21,53.3780721,0,Ind,Bad
+280,0Balance,Current,Car New,Low,Medium,Single,Other,Skilled,Yes,49,4,45,112.5779648,0,Ind,Bad
+281,0Balance,Current,Car Used,Low,Long,Single,Other,Skilled,Yes,13,4,34,85.49843222,0,Ind,Bad
+282,High,Current,Furniture,Low,Short,Single,Own,Unskilled,Yes,19,1,38.8,97.55174545,1,Ind,Good
+283,0Balance,Current,Large Appliance,Low,Short,Single,Own,Skilled,Yes,49,4,58.3,146.3646324,1,Ind,Good
+284,Low,Current,Small Appliance,No Acct,Unemployed,Single,Own,Management,No,13,1,51,128.3971963,0,Ind,Bad
+285,No Acct,Current,Business,No Acct,Short,Divorced,Own,Skilled,No,49,2,37,92.64611147,0,Different,Bad
+286,Low,Current,Business,MedLow,Long,Divorced,Rent,Unskilled,Yes,22,2,60,150.7671354,0,Different,Bad
+287,0Balance,Current,Small Appliance,Low,Very Short,Divorced,Own,Skilled,Yes,10,4,21,52.61206869,0,Different,Bad
+288,High,Current,Car New,Low,Medium,Single,Other,Skilled,Yes,25,3,37,93.37236256,0,Ind,Bad
+289,Low,Current,Car New,Low,Medium,Married,Own,Unskilled,Yes,13,3,24,60.0491098,0,Same,Bad
+290,0Balance,Current,Furniture,Low,Very Short,Divorced,Own,Unskilled,Yes,31,4,30,75.83296902,0,Different,Bad
+291,No Acct,Current,Small Appliance,Low,Unemployed,Divorced,Rent,Skilled,Yes,19,4,21,52.76455931,0,Different,Bad
+292,No Acct,Current,Business,High,Short,Single,Own,Management,No,25,3,53,132.5888695,0,Ind,Bad
+293,0Balance,Current,Car Used,No Acct,Long,Single,Other,Skilled,No,37,4,46,115.6462172,0,Ind,Bad
+294,0Balance,Current,Small Appliance,No Acct,Medium,Divorced,Own,Management,No,43,3,29,72.80712115,0,Different,Bad
+295,No Acct,Current,Furniture,Low,Medium,Divorced,Own,Unskilled,No,13,4,30,75.00222494,0,Different,Bad
+296,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,No,7,4,27,68.36932426,0,Ind,Bad
+297,Low,Current,Furniture,Low,Very Short,Married,Own,Skilled,No,31,1,21,52.59056806,0,Same,Bad
+298,0Balance,Current,Education,Low,Short,Single,Rent,Unskilled,Yes,13,4,39,98.26168981,0,Ind,Bad
+299,Low,Current,Small Appliance,MedLow,Short,Divorced,Other,Skilled,Yes,37,4,49,123.0682788,0,Different,Bad
+300,Low,Current,Furniture,Low,Short,Divorced,Own,Skilled,Yes,9,4,23,58.11176708,0,Different,Bad
+301,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,25,2,36.4,91.93042774,1,Ind,Good
+302,0Balance,Current,Furniture,Low,Unemployed,Single,Rent,Unemployed,Yes,19,1,29.9,75.54028827,1,Ind,Good
+303,0Balance,Current,Car New,Low,Medium,Single,Own,Skilled,Yes,25,3,34.9,87.91092817,1,Ind,Good
+304,Low,Current,Furniture,MedLow,Short,Divorced,Rent,Skilled,Yes,31,4,20,50.85412011,0,Different,Bad
+305,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,22,2,24,60.98107267,0,Different,Bad
+306,No Acct,Current,Small Appliance,MedLow,Long,Single,Own,Skilled,Yes,25,4,34.5,86.59114799,1,Ind,Good
+307,No Acct,Current,Repairs,Low,Very Short,Divorced,Own,Skilled,Yes,19,4,27.3,69.05590998,1,Different,Good
+308,No Acct,Current,Car New,No Acct,Short,Single,Rent,Skilled,Yes,19,4,67,168.4466305,0,Ind,Bad
+309,0Balance,Current,Large Appliance,Low,Short,Married,Own,Unskilled,Yes,19,3,46,115.5167309,0,Same,Bad
+310,0Balance,Current,Small Appliance,Low,Long,Single,Own,Unskilled,Yes,13,4,61.2,153.393163,1,Ind,Good
+311,Low,Current,Car Used,Low,Very Short,Married,Rent,Management,Yes,37,4,31.5,79.44836459,1,Same,Good
+312,0Balance,Current,Small Appliance,MedLow,Short,Divorced,Own,Unskilled,Yes,25,2,42.3,105.7597998,1,Different,Good
+313,0Balance,Current,Small Appliance,MedLow,Very Short,Married,Rent,Unskilled,Yes,13,3,37.1,92.76499382,1,Same,Good
+314,Low,Current,Small Appliance,Low,Very Short,Married,Rent,Skilled,No,13,1,27.7,70.16155321,1,Same,Good
+315,No Acct,Current,Furniture,Low,Short,Single,Rent,Unskilled,No,11,2,24,60.1391698,0,Ind,Bad
+316,0Balance,Current,Car New,Low,Very Short,Single,Own,Unskilled,No,13,1,32,80.06922902,0,Ind,Bad
+317,0Balance,Current,Business,Low,Very Short,Divorced,Rent,Skilled,No,49,4,23,58.16272334,0,Different,Bad
+318,0Balance,Current,Furniture,Low,Short,Divorced,Rent,Skilled,No,13,4,19,47.90230955,0,Different,Bad
+319,0Balance,Current,Furniture,Low,Long,Single,Own,Skilled,No,37,2,44.9,112.3253341,1,Ind,Good
+320,Low,Current,Business,Low,Short,Single,Own,Skilled,No,49,2,22,55.49417137,0,Ind,Bad
+321,Low,Current,Small Appliance,High,Medium,Single,Own,Skilled,No,49,2,26,65.22025236,0,Ind,Bad
+322,0Balance,Current,Small Appliance,Low,Unemployed,Single,Own,Management,No,25,2,31.2,78.00981146,1,Ind,Good
+323,Low,Current,Car New,No Acct,Short,Divorced,Own,Skilled,No,19,2,32,80.70340238,0,Different,Bad
+324,0Balance,Current,Retraining,Low,Medium,Married,Rent,Skilled,No,13,4,21.5,53.76114354,1,Same,Good
+325,No Acct,Current,Furniture,MedHigh,Short,Divorced,Rent,Unskilled,No,13,4,28,70.41096925,0,Different,Bad
+326,0Balance,Current,Small Appliance,Low,Short,Divorced,Rent,Skilled,No,19,4,24,60.49672951,0,Different,Bad
+327,0Balance,Current,Car New,Low,Medium,Single,Own,Skilled,No,13,2,30.2,76.32677134,1,Ind,Good
+328,High,Current,Car New,MedLow,Long,Divorced,Other,Unskilled,No,11,4,51.4,128.6472192,1,Different,Good
+329,0Balance,Current,Car New,Low,Long,Divorced,Own,Management,No,15,4,44,110.0542262,0,Different,Bad
+330,Low,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,10,2,28,70.29432676,0,Different,Bad
+331,0Balance,Current,Car Used,Low,Medium,Single,Other,Skilled,Yes,49,4,45.3,113.6380427,1,Ind,Good
+332,0Balance,Current,Car New,Low,Long,Single,Other,Management,Yes,49,4,42.1,105.4065391,1,Ind,Good
+333,Low,Current,Car New,No Acct,Short,Single,Other,Skilled,Yes,37,4,36,90.89361471,0,Ind,Bad
+334,Low,Current,Furniture,No Acct,Long,Divorced,Own,Skilled,Yes,13,2,24,60.11203509,0,Different,Bad
+335,Low,Current,Business,Low,Long,Divorced,Rent,Skilled,Yes,22,4,45.8,115.4664888,1,Different,Good
+336,Low,Current,Car New,Low,Long,Single,Other,Management,Yes,37,2,61.3,153.2716146,1,Ind,Good
+337,No Acct,Current,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,7,4,36.6,92.07996157,1,Different,Good
+338,0Balance,Current,Car Used,Low,Short,Single,Own,Skilled,Yes,37,2,25,62.77443023,0,Ind,Bad
+339,0Balance,Current,Car New,Low,Medium,Divorced,Own,Skilled,Yes,13,3,35,88.08734427,0,Different,Bad
+340,0Balance,Current,Furniture,Low,Short,Single,Rent,Skilled,Yes,19,3,41,103.2149169,0,Ind,Bad
+341,Low,Current,Car New,MedLow,Very Short,Divorced,Own,Unskilled,Yes,13,2,22,55.89884897,0,Different,Bad
+342,0Balance,Current,Car New,No Acct,Long,Divorced,Own,Skilled,Yes,25,2,33.8,85.21450806,1,Different,Good
+343,0Balance,Current,Car New,Low,Short,Divorced,Own,Skilled,Yes,16,2,28,70.69848079,0,Different,Bad
+344,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,10,2,27.1,68.3416369,1,Ind,Good
+345,0Balance,Current,Furniture,Low,Long,Single,Rent,Management,Yes,25,2,50.5,127.1245124,1,Ind,Good
+346,0Balance,Current,Education,Low,Very Short,Divorced,Own,Skilled,Yes,13,4,54.1,135.3340231,1,Different,Good
+347,0Balance,Current,Furniture,Low,Medium,Divorced,Rent,Skilled,Yes,31,4,28.2,71.01332443,1,Different,Good
+348,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,19,2,23,58.06330511,0,Different,Bad
+349,0Balance,Current,Furniture,Low,Long,Single,Other,Management,Yes,13,-2,56.1,140.5166308,1,Ind,Good
+350,Low,Current,Small Appliance,MedHigh,Short,Single,Own,Unskilled,Yes,13,3,65,162.8164001,0,Ind,Bad
+351,0Balance,Current,Repairs,Low,Very Short,Divorced,Own,Unskilled,Yes,31,1,33,83.22729844,0,Different,Bad
+352,No Acct,Current,Car New,Low,Short,Divorced,Rent,Skilled,Yes,28,3,20,50.96267955,0,Different,Bad
+353,0Balance,Critical,Furniture,MedHigh,Short,Divorced,Own,Skilled,No,34,4,22,55.56782135,0,Different,Bad
+354,0Balance,Critical,Car New,Low,Long,Single,Own,Skilled,No,13,3,34,85.33382958,0,Ind,Bad
+355,Low,Critical,Furniture,Low,Medium,Single,Rent,Skilled,No,31,2,48,120.0243832,0,Ind,Bad
+356,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,No,17,4,42,105.0934194,0,Ind,Bad
+357,0Balance,Critical,Furniture,Low,Long,Single,Own,Skilled,No,13,3,59,148.3950335,0,Ind,Bad
+358,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,Yes,10,3,33.9,85.60532665,1,Ind,Good
+359,0Balance,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,13,4,47,117.7451134,0,Ind,Bad
+360,No Acct,Critical,Business,Low,Short,Single,Own,Skilled,Yes,19,2,35,88.1515951,0,Ind,Bad
+361,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,37,4,44.3,111.7059129,1,Ind,Good
+362,0Balance,Critical,Car New,Low,Short,Divorced,Own,Skilled,Yes,13,2,28,70.36894154,0,Different,Bad
+363,No Acct,Current,Furniture,Low,Short,Single,Other,Skilled,Yes,19,4,46,115.1531447,0,Ind,Bad
+364,Low,Current,Education,No Acct,Short,Married,Own,Skilled,Yes,37,2,26,65.93486736,0,Same,Bad
+365,Low,Critical,Education,Low,Long,Divorced,Own,Management,Yes,10,3,33,82.88939841,0,Different,Bad
+366,No Acct,All Paid,Car New,Low,Short,Divorced,Own,Skilled,Yes,19,3,39.7,100.1678299,1,Different,Good
+367,0Balance,Current,Retraining,Low,Medium,Married,Rent,Skilled,No,13,4,23.9,59.98618646,1,Same,Good
+368,No Acct,Critical,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,37,4,22,55.55138541,0,Different,Bad
+369,No Acct,Critical,Car New,Low,Medium,Single,Own,Skilled,Yes,19,2,30,75.84765057,0,Ind,Bad
+370,0Balance,Critical,Car Used,Low,Long,Single,Other,Skilled,Yes,49,4,45,113.3445109,0,Ind,Bad
+371,0Balance,Critical,Furniture,Low,Short,Divorced,Rent,Skilled,Yes,19,4,23,58.34109583,0,Different,Bad
+372,High,Critical,Car New,MedHigh,Medium,Married,Own,Skilled,Yes,13,2,27,68.44750357,0,Same,Bad
+373,0Balance,Critical,Education,Low,Short,Single,Own,Skilled,Yes,41,3,26,65.92786074,0,Ind,Bad
+374,0Balance,Critical,Car New,Low,Long,Single,Own,Unskilled,Yes,25,4,59,148.338867,0,Ind,Bad
+375,High,Critical,Small Appliance,No Acct,Short,Single,Other,Skilled,Yes,16,4,38,95.18911538,0,Ind,Bad
+376,Low,Critical,Small Appliance,Low,Short,Married,Own,Skilled,Yes,19,2,32,80.30476739,0,Same,Bad
+377,No Acct,Critical,Small Appliance,No Acct,Long,Divorced,Own,Unskilled,Yes,13,3,32,80.80288273,0,Different,Bad
+378,Low,Critical,Furniture,Low,Very Short,Divorced,Own,Unskilled,Yes,25,4,24,60.42302089,0,Different,Bad
+379,No Acct,Bank Paid,Car New,Low,Long,Single,Own,Skilled,No,19,4,40.4,101.8577453,1,Ind,Good
+380,Low,Bank Paid,Education,High,Very Short,Divorced,Rent,Skilled,No,7,2,23,57.98845821,0,Different,Bad
+381,0Balance,Bank Paid,Business,Low,Medium,Divorced,Rent,Skilled,No,49,4,40.8,102.6616525,1,Different,Good
+382,0Balance,Bank Paid,Furniture,Low,Very Short,Divorced,Own,Skilled,No,25,1,64.1,160.4794838,1,Different,Good
+383,0Balance,Bank Paid,Business,Low,Short,Single,Rent,Skilled,No,25,2,38,95.78680059,1,Ind,Good
+384,No Acct,Bank Paid,Car Used,No Acct,Unemployed,Divorced,Own,Management,No,31,1,52,130.722207,0,Different,Bad
+385,0Balance,Bank Paid,Furniture,MedHigh,Very Short,Single,Other,Skilled,No,25,4,29,73.16680197,0,Ind,Bad
+386,High,Bank Paid,Business,Low,Very Short,Divorced,Own,Unemployed,No,13,1,30.8,77.93717359,1,Different,Good
+387,0Balance,Bank Paid,Other,No Acct,Long,Single,Own,Management,No,25,3,49.9,125.1738525,1,Ind,Good
+388,Low,Bank Paid,Car New,MedLow,Short,Married,Rent,Skilled,Yes,16,2,27.3,69.20304049,1,Same,Good
+389,0Balance,Bank Paid,Car New,Low,Unemployed,Divorced,Rent,Unemployed,Yes,25,4,34.6,86.51164067,1,Different,Good
+390,Low,Bank Paid,Car New,MedLow,Unemployed,Single,Own,Management,Yes,16,2,35.1,88.20964966,1,Ind,Good
+391,Low,Bank Paid,Car New,MedLow,Very Short,Divorced,Own,Unskilled,Yes,7,1,38,95.03951776,1,Different,Good
+392,0Balance,Bank Paid,Small Appliance,Low,Short,Divorced,Own,Unskilled,Yes,13,4,29.2,73.1028828,1,Different,Good
+393,0Balance,Bank Paid,Furniture,Low,Short,Single,Own,Skilled,Yes,19,3,47.6,119.4099134,1,Ind,Good
+394,Low,Bank Paid,Other,MedLow,Long,Divorced,Other,Management,Yes,61,4,65,162.6293193,1,Different,Good
+395,0Balance,Bank Paid,Car New,Low,Medium,Single,Rent,Unskilled,Yes,19,4,40.8,102.1013674,1,Ind,Good
+396,0Balance,Bank Paid,Car New,Low,Very Short,Single,Own,Skilled,Yes,13,2,48.6,121.8126028,1,Ind,Good
+397,0Balance,Bank Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,37,4,34.5,87.19644447,1,Ind,Good
+398,Low,Bank Paid,Business,Low,Long,Divorced,Rent,Skilled,Yes,49,3,63.8,160.4275334,1,Different,Good
+399,0Balance,Bank Paid,Furniture,Low,Medium,Single,Own,Skilled,Yes,25,4,35.8,90.22899302,1,Ind,Good
+400,Low,Bank Paid,Car New,MedLow,Medium,Single,Own,Skilled,Yes,10,3,33.3,83.67083013,1,Ind,Good
+401,0Balance,Bank Paid,Education,Low,Long,Divorced,Other,Skilled,Yes,7,4,39.3,98.27936643,1,Different,Good
+402,Low,Bank Paid,Education,Low,Medium,Divorced,Other,Unskilled,Yes,25,4,37.6,94.81432663,1,Different,Good
+403,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,Yes,16,3,32,80.78968775,0,Ind,Bad
+404,Low,Critical,Business,Low,Short,Single,Own,Unskilled,Yes,25,4,35,88.17547597,0,Ind,Bad
+405,0Balance,Critical,Furniture,Low,Long,Single,Rent,Skilled,Yes,25,4,22,55.42606524,0,Ind,Bad
+406,Low,Critical,Car New,MedLow,Very Short,Divorced,Own,Skilled,Yes,19,3,27,68.06389158,0,Different,Bad
+407,No Acct,Critical,Car New,No Acct,Short,Divorced,Own,Skilled,Yes,22,4,28,70.67704563,0,Different,Bad
+408,Low,Critical,Car New,Low,Very Short,Divorced,Rent,Unemployed,Yes,16,1,25,62.54889328,0,Different,Bad
+409,No Acct,Critical,Business,Low,Short,Single,Own,Skilled,Yes,19,2,35,87.87079829,0,Ind,Bad
+410,0Balance,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,13,4,47,117.992934,0,Ind,Bad
+411,0Balance,Critical,Car Used,Low,Long,Single,Other,Skilled,Yes,49,4,23,57.51188599,0,Ind,Bad
+412,Low,Critical,Business,MedLow,Short,Divorced,Rent,Unskilled,Yes,31,4,25,63.41377033,0,Different,Bad
+413,Low,Critical,Business,Low,Long,Divorced,Other,Management,Yes,28,4,41,103.2940069,0,Different,Bad
+414,Low,Critical,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,13,3,24,60.82400619,0,Different,Bad
+415,0Balance,Critical,Small Appliance,Low,Short,Single,Rent,Skilled,Yes,13,2,27,67.69426169,0,Ind,Bad
+416,Low,Delay,Education,MedLow,Medium,Single,Rent,Skilled,No,40,3,38.9,97.3115414,1,Ind,Good
+417,No Acct,Delay,Car Used,Low,Medium,Single,Own,Unskilled,No,25,3,39.8,99.56960391,1,Ind,Good
+418,Low,Delay,Car New,Low,Short,Divorced,Own,Skilled,No,22,4,51.8,129.9899885,1,Different,Good
+419,Low,Delay,Furniture,Low,Unemployed,Single,Own,Management,No,7,1,34,85.24640281,0,Ind,Bad
+420,No Acct,Delay,Business,Low,Medium,Single,Own,Skilled,No,28,4,28.3,71.66804557,1,Ind,Good
+421,No Acct,Delay,Business,No Acct,Short,Single,Own,Skilled,Yes,25,4,36.1,90.46080729,1,Ind,Good
+422,Low,Delay,Car New,MedLow,Long,Single,Other,Skilled,Yes,37,3,35,87.73133346,1,Ind,Good
+423,Low,Delay,Car Used,Low,Long,Single,Own,Management,Yes,28,2,34,85.97975027,1,Ind,Good
+424,No Acct,Delay,Car Used,High,Short,Single,Own,Skilled,Yes,28,2,31.5,79.25042724,1,Ind,Good
+425,Low,Delay,Business,MedLow,Medium,Single,Rent,Management,Yes,25,4,38.9,97.35121199,1,Ind,Good
+426,No Acct,Delay,Business,MedLow,Short,Single,Own,Unskilled,Yes,7,2,40.1,100.6519178,1,Ind,Good
+427,No Acct,Delay,Car New,No Acct,Long,Married,Own,Skilled,Yes,25,4,56.8,142.9081056,1,Same,Good
+428,High,All Paid,Small Appliance,No Acct,Medium,Single,Own,Skilled,Yes,11,2,31.9,79.97506905,1,Ind,Good
+429,Low,All Paid,Car New,Low,Very Short,Single,Own,Unskilled,Yes,13,3,54.1,135.9102124,1,Ind,Good
+430,No Acct,All Paid,Business,MedLow,Short,Single,Own,Unskilled,Yes,25,3,34.1,85.63956033,1,Ind,Good
+431,0Balance,All Paid,Furniture,No Acct,Medium,Single,Own,Management,Yes,40,4,35.6,89.55820017,1,Ind,Good
+432,Low,All Paid,Furniture,Low,Long,Single,Rent,Skilled,Yes,13,4,33.2,83.71019818,1,Ind,Good
+433,0Balance,All Paid,Car Used,Low,Long,Single,Own,Skilled,Yes,25,4,69.6,174.927708,1,Ind,Good
+434,0Balance,All Paid,Car New,Low,Long,Married,Own,Skilled,Yes,22,3,34.1,85.63368997,1,Same,Good
+435,No Acct,All Paid,Small Appliance,No Acct,Long,Single,Other,Skilled,Yes,7,4,42.1,105.9948505,1,Ind,Good
+436,No Acct,All Paid,Car New,Low,Medium,Single,Own,Management,Yes,7,3,53.5,134.0110716,1,Ind,Good
+437,No Acct,All Paid,Repairs,No Acct,Medium,Divorced,Own,Skilled,Yes,13,4,26.9,67.95889543,1,Different,Good
+438,0Balance,All Paid,Repairs,MedLow,Long,Single,Own,Skilled,Yes,10,4,54.1,135.6507174,1,Ind,Good
+439,No Acct,All Paid,Small Appliance,No Acct,Short,Single,Own,Skilled,Yes,19,3,27.7,70.07649457,1,Ind,Good
+440,No Acct,All Paid,Car Used,No Acct,Short,Single,Own,Management,Yes,37,2,31.3,78.59525994,1,Ind,Good
+441,No Acct,All Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,25,4,37.9,95.59350305,1,Ind,Good
+442,No Acct,All Paid,Business,Low,Short,Divorced,Own,Skilled,No,13,2,34,85.25541894,1,Different,Good
+443,No Acct,All Paid,Small Appliance,MedLow,Unemployed,Divorced,Own,Unskilled,No,12,4,62.8,157.5900882,1,Different,Good
+444,No Acct,All Paid,Car Used,Low,Medium,Single,Own,Skilled,No,25,3,42.7,107.5961753,1,Ind,Good
+445,Low,Bank Paid,Business,MedLow,Medium,Single,Own,Skilled,Yes,49,2,35.5,89.07738007,1,Ind,Good
+446,No Acct,Bank Paid,Small Appliance,MedHigh,Long,Single,Own,Unskilled,Yes,7,4,47.1,118.3165038,1,Ind,Good
+447,Low,Bank Paid,Car Used,Low,Unemployed,Single,Other,Management,Yes,43,2,58.4,146.728372,1,Ind,Good
+448,High,Bank Paid,Car New,High,Retired,Divorced,Own,Skilled,Yes,120,10,85,212.8287716,0,Different,Bad
+449,High,Bank Paid,Furniture,Low,Retired,Single,Rent,Skilled,No,60,9,85.6,214.5518584,1,Ind,Good
+450,No Acct,Bank Paid,Education,Low,Short,Married,Rent,Skilled,Yes,35,5,45.5,114.1825872,1,Same,Good
+451,No Acct,Bank Paid,Business,Low,Medium,Divorced,Own,Management,No,41,8,49.9,125.2598677,1,Different,Good
+452,0Balance,Current,Car Used,Low,Long,Single,Other,Skilled,Yes,13,4,34,85.37923282,0,Ind,Bad
+453,0Balance,Current,Car New,Low,Medium,Single,Other,Skilled,Yes,49,4,45,112.5299763,0,Ind,Bad
+454,No Acct,Current,Car New,MedLow,Short,Single,Rent,Unskilled,No,11,2,38.5,96.68923284,1,Ind,Good
+455,No Acct,Delay,Business,Low,Short,Married,Own,Skilled,No,19,2,34.1,85.83548694,1,Same,Good
+456,No Acct,Delay,Business,Low,Very Short,Divorced,Own,Skilled,No,37,1,27,68.19582706,0,Different,Bad
+457,No Acct,Delay,Furniture,Low,Medium,Divorced,Own,Skilled,No,19,1,21,53.08592165,0,Different,Bad
+458,0Balance,Delay,Car New,Low,Unemployed,Single,Other,Skilled,No,25,2,42,105.4939432,0,Ind,Bad
+459,High,Delay,Business,Low,Long,Single,Own,Management,No,31,4,65,163.0663704,0,Ind,Bad
+460,0Balance,Delay,Small Appliance,Low,Very Short,Divorced,Own,Unskilled,No,25,2,28,70.90947607,0,Different,Bad
+461,No Acct,Delay,Car New,Low,Long,Single,Own,Unskilled,No,25,4,46,115.8776968,0,Ind,Bad
+462,Low,Delay,Car New,Low,Long,Single,Other,Skilled,No,37,4,56,140.9864091,0,Ind,Bad
+463,0Balance,Delay,Small Appliance,Low,Medium,Single,Own,Skilled,No,43,2,25,62.59825841,0,Ind,Bad
+464,Low,Delay,Education,Low,Long,Single,Other,Skilled,No,49,4,49,123.3154485,0,Ind,Bad
+465,0Balance,Current,Small Appliance,Low,Medium,Married,Rent,Unskilled,Yes,13,3,23,57.90158454,0,Same,Bad
+466,Low,Delay,Car New,Low,Short,Divorced,Own,Skilled,No,22,4,52.3,131.7169325,1,Different,Good
+467,No Acct,Current,Furniture,MedHigh,Short,Divorced,Rent,Skilled,No,16,4,19,47.86965764,0,Different,Bad
+468,No Acct,Delay,Business,Low,Short,Married,Own,Skilled,Yes,19,2,27,67.87285746,0,Same,Bad
+469,0Balance,Current,Education,Low,Short,Single,Rent,Unskilled,Yes,13,4,39,97.56767453,0,Ind,Bad
+470,Low,All Paid,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,19,1,32.5,81.66154594,1,Different,Good
+471,Low,Current,Small Appliance,MedLow,Short,Divorced,Other,Skilled,Yes,37,4,49,123.0920916,0,Different,Bad
+472,0Balance,Critical,Car Used,Low,Medium,Single,Own,Skilled,Yes,37,4,23,58.08703525,0,Ind,Bad
+473,0Balance,Current,Small Appliance,Low,Very Short,Divorced,Own,Skilled,Yes,25,4,40.9,102.8765031,1,Different,Good
+474,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,Yes,16,3,32,80.55566492,0,Ind,Bad
+475,No Acct,Critical,Education,MedLow,Short,Divorced,Own,Skilled,Yes,19,2,29,73.03420049,0,Different,Bad
+476,Low,Current,Education,Low,Short,Single,Other,Skilled,Yes,61,4,41,102.8771422,0,Ind,Bad
+477,No Acct,All Paid,Car New,Low,Short,Single,Own,Unskilled,Yes,12,4,40.8,102.2331994,1,Ind,Good
+478,No Acct,Delay,Business,No Acct,Short,Single,Own,Skilled,No,25,4,36.8,92.33928749,1,Ind,Good
+479,0Balance,Current,Car New,Low,Very Short,Single,Own,Skilled,Yes,16,3,38.4,96.65379541,1,Ind,Good
+480,No Acct,Current,Car New,Low,Long,Single,Own,Management,Yes,13,4,44.7,112.269902,1,Ind,Good
+481,0Balance,All Paid,Business,Low,Very Short,Single,Own,Unskilled,No,14,1,30.3,75.77622516,1,Ind,Good
+482,Low,All Paid,Business,Low,Medium,Single,Own,Skilled,No,22,3,31,77.76684445,1,Ind,Good
+483,No Acct,All Paid,Car Used,No Acct,Medium,Single,Other,Skilled,No,49,1,41.6,104.7571753,1,Ind,Good
+484,No Acct,All Paid,Small Appliance,No Acct,Medium,Single,Own,Skilled,No,31,3,37.6,94.29684394,1,Ind,Good
+485,No Acct,All Paid,Small Appliance,Low,Medium,Single,Own,Unskilled,No,5,1,46.9,118.1223502,1,Ind,Good
+486,No Acct,All Paid,Small Appliance,Low,Long,Married,Rent,Skilled,No,7,2,29,72.50786034,0,Same,Bad
+487,0Balance,All Paid,Small Appliance,Low,Medium,Divorced,Own,Unskilled,No,13,3,59.9,149.7623115,1,Different,Good
+488,Low,All Paid,Small Appliance,Low,Long,Single,Own,Unskilled,No,10,4,39.8,99.73411317,1,Ind,Good
+489,0Balance,All Paid,Repairs,Low,Unemployed,Single,Own,Unemployed,No,43,4,64.9,162.9550463,1,Ind,Good
+490,No Acct,All Paid,Car New,Low,Short,Single,Rent,Unskilled,No,12,4,45.5,114.4639234,1,Ind,Good
+491,Low,All Paid,Furniture,Low,Very Short,Divorced,Own,Skilled,No,19,1,32.5,82.05728178,1,Different,Good
+492,No Acct,All Paid,Furniture,Low,Short,Divorced,Own,Skilled,No,19,2,33.2,83.47371639,1,Different,Good
+493,0Balance,All Paid,Small Appliance,High,Long,Divorced,Rent,Management,No,25,4,61.8,155.1757538,1,Different,Good
+494,No Acct,All Paid,Car Used,No Acct,Short,Single,Own,Management,No,25,4,50.4,126.2021295,1,Ind,Good
+495,Low,All Paid,Small Appliance,No Acct,Long,Single,Own,Skilled,No,16,4,57,142.5415616,1,Ind,Good
+496,No Acct,All Paid,Business,No Acct,Long,Single,Rent,Unskilled,No,13,4,60.5,152.1622549,1,Ind,Good
+497,No Acct,All Paid,Furniture,No Acct,Long,Single,Rent,Skilled,No,13,4,55,138.319967,1,Ind,Good
+498,No Acct,All Paid,Car Used,High,Short,Single,Own,Skilled,Yes,25,2,31.3,78.29266381,1,Ind,Good
+499,0Balance,All Paid,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,19,4,30.5,76.34405099,1,Different,Good
+500,No Acct,All Paid,Car New,Low,Unemployed,Divorced,Own,Unemployed,Yes,13,2,38.9,97.3909598,1,Different,Good
+501,0Balance,All Paid,Car New,Low,Very Short,Single,Own,Unskilled,Yes,7,4,41.8,104.9025583,1,Ind,Good
+502,No Acct,All Paid,Repairs,Low,Short,Divorced,Own,Skilled,Yes,25,2,36.9,92.4816364,1,Different,Good
+503,Low,All Paid,Furniture,High,Medium,Single,Own,Skilled,Yes,22,2,33.4,83.76523044,1,Ind,Good
+504,High,All Paid,Car Used,MedHigh,Medium,Single,Own,Skilled,Yes,16,2,41.5,104.047216,1,Ind,Good
+505,No Acct,All Paid,Small Appliance,MedHigh,Long,Single,Own,Management,Yes,19,3,37,92.95889762,1,Ind,Good
+506,0Balance,All Paid,Car New,Low,Long,Single,Own,Skilled,Yes,22,4,68.7,171.7742169,1,Ind,Good
+507,No Acct,All Paid,Small Appliance,High,Long,Single,Own,Skilled,Yes,19,4,45,113.1201044,0,Ind,Bad
+508,Low,All Paid,Business,No Acct,Medium,Single,Own,Skilled,Yes,25,3,39.6,99.02563697,1,Ind,Good
+509,No Acct,All Paid,Small Appliance,Low,Short,Single,Other,Skilled,Yes,16,4,37.6,94.827711,1,Ind,Good
+510,No Acct,All Paid,Car Used,High,Long,Single,Rent,Skilled,Yes,16,4,24.9,63.13794348,1,Ind,Good
+511,No Acct,All Paid,Education,MedLow,Short,Divorced,Own,Skilled,Yes,16,3,35.1,88.39428432,1,Different,Good
+512,No Acct,All Paid,Car Used,Low,Long,Single,Own,Management,Yes,22,4,44.3,111.1004267,1,Ind,Good
+513,No Acct,All Paid,Small Appliance,Low,Short,Single,Own,Skilled,Yes,16,2,35.3,89.18341954,1,Ind,Good
+514,No Acct,All Paid,Small Appliance,Low,Medium,Single,Own,Unskilled,Yes,5,1,48.7,122.473604,1,Ind,Good
+515,0Balance,All Paid,Car Used,Low,Long,Single,Other,Management,Yes,31,4,43.7,109.5353275,1,Ind,Good
+516,No Acct,All Paid,Repairs,Low,Long,Single,Other,Skilled,Yes,25,4,42.7,107.4866514,1,Ind,Good
+517,No Acct,All Paid,Small Appliance,Low,Medium,Divorced,Own,Skilled,Yes,31,2,31.7,80.00723258,1,Different,Good
+518,No Acct,All Paid,Education,Low,Long,Divorced,Other,Unskilled,Yes,13,4,58.7,147.0256612,1,Different,Good
+519,0Balance,All Paid,Car New,Low,Short,Single,Rent,Skilled,Yes,12,2,39.4,99.20168711,1,Ind,Good
+520,No Acct,All Paid,Car New,Low,Short,Divorced,Own,Skilled,Yes,19,3,38.6,96.8217631,1,Different,Good
+521,0Balance,All Paid,Car New,Low,Medium,Single,Own,Skilled,Yes,11,3,54,135.8910309,1,Ind,Good
+522,No Acct,All Paid,Furniture,No Acct,Short,Married,Own,Skilled,Yes,7,2,33.1,83.57088313,1,Same,Good
+523,No Acct,All Paid,Small Appliance,Low,Long,Single,Own,Skilled,Yes,13,2,30.3,76.4907446,1,Ind,Good
+524,No Acct,All Paid,Small Appliance,Low,Long,Single,Own,Skilled,Yes,13,4,56.8,142.3269589,1,Ind,Good
+525,No Acct,All Paid,Education,No Acct,Short,Divorced,Own,Skilled,Yes,25,2,37.4,94.30074765,1,Different,Good
+526,No Acct,All Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,13,4,50.3,126.4942196,1,Ind,Good
+527,No Acct,All Paid,Small Appliance,No Acct,Long,Single,Own,Skilled,Yes,37,2,56.2,141.1089093,1,Ind,Good
+528,High,All Paid,Small Appliance,No Acct,Long,Single,Own,Unskilled,Yes,31,4,50,125.5935513,1,Ind,Good
+529,No Acct,All Paid,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,31,2,36.1,90.36342799,1,Different,Good
+530,0Balance,All Paid,Repairs,Low,Unemployed,Single,Own,Unemployed,Yes,43,4,66.4,166.548296,1,Ind,Good
+531,Low,Bank Paid,Business,MedLow,Medium,Single,Own,Skilled,No,49,2,33.4,83.60295665,1,Ind,Good
+532,High,Bank Paid,Business,Low,Very Short,Divorced,Own,Unemployed,Yes,13,1,29.6,74.89427871,1,Different,Good
+533,Low,Current,Car New,Low,Very Short,Divorced,Rent,Skilled,Yes,13,1,24,60.52898838,0,Different,Bad
+534,No Acct,Current,Small Appliance,Low,Long,Single,Own,Skilled,No,37,2,36.9,92.56569055,1,Ind,Good
+535,0Balance,Critical,Furniture,Low,Long,Single,Own,Skilled,Yes,13,3,59,148.4051624,0,Ind,Bad
+536,No Acct,Delay,Business,Low,Medium,Single,Own,Skilled,No,28,4,30.7,77.03491577,1,Ind,Good
+537,Low,All Paid,Small Appliance,Low,Long,Single,Own,Unskilled,Yes,10,4,42.1,105.8376816,1,Ind,Good
+538,0Balance,Bank Paid,Furniture,MedHigh,Very Short,Single,Other,Skilled,Yes,25,4,29,72.64323935,0,Ind,Bad
+539,No Acct,Bank Paid,Car Used,No Acct,Unemployed,Divorced,Own,Management,Yes,31,1,52,130.4028118,0,Different,Bad
+540,Low,Current,Business,MedLow,Medium,Single,Own,Unskilled,No,13,4,47.3,118.4481748,1,Ind,Good
+541,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,No,16,3,52.2,131.1755906,1,Ind,Good
+542,0Balance,Delay,Small Appliance,Low,Very Short,Married,Own,Skilled,Yes,25,4,47,118.2043922,0,Same,Bad
+543,0Balance,All Paid,Small Appliance,Low,Medium,Divorced,Own,Unskilled,Yes,13,3,61.5,153.7675785,1,Different,Good
+544,No Acct,Current,Car New,No Acct,Short,Single,Own,Unskilled,Yes,11,4,26,65.23662967,0,Ind,Bad
+545,0Balance,Current,Car New,Low,Short,Single,Own,Unskilled,Yes,29,2,44,110.0951634,0,Ind,Bad
+546,0Balance,Current,Car New,Low,Very Short,Divorced,Rent,Skilled,No,19,3,22,55.39059525,0,Different,Bad
+547,Low,Current,Car New,Low,Medium,Single,Rent,Unskilled,No,19,3,29.6,74.60142688,1,Ind,Good
+548,0Balance,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,13,3,39.6,99.2800718,1,Different,Good
+549,0Balance,Current,Education,No Acct,Long,Single,Own,Management,No,37,4,39,97.74378708,0,Ind,Bad
+550,No Acct,Current,Car Used,Low,Medium,Single,Own,Management,No,25,3,40.5,101.9924474,1,Ind,Good
+551,No Acct,Current,Furniture,No Acct,Medium,Divorced,Rent,Unskilled,No,16,4,36.6,91.52117804,1,Different,Good
+552,Low,Current,Small Appliance,Low,Very Short,Married,Own,Skilled,No,25,1,21,52.62479835,0,Same,Bad
+553,No Acct,Current,Small Appliance,Low,Very Short,Married,Own,Skilled,No,19,4,42.4,106.3607932,1,Same,Good
+554,0Balance,Bank Paid,Business,Low,Short,Single,Rent,Skilled,Yes,25,2,34.9,87.42961274,1,Ind,Good
+555,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,Yes,17,4,42,105.4490703,0,Ind,Bad
+556,Low,Current,Furniture,No Acct,Very Short,Divorced,Rent,Skilled,No,19,3,26,65.37032194,0,Different,Bad
+557,No Acct,All Paid,Small Appliance,Low,Long,Married,Rent,Skilled,Yes,7,2,33.7,84.75285176,1,Same,Good
+558,Low,Current,Furniture,High,Very Short,Divorced,Own,Skilled,No,12,1,22.9,57.55828134,1,Different,Good
+559,Low,Critical,Furniture,Low,Medium,Single,Own,Skilled,Yes,31,2,48,120.6041131,0,Ind,Bad
+560,High,Current,Small Appliance,Low,Long,Single,Own,Skilled,No,37,2,32.6,82.04671026,1,Ind,Good
+561,No Acct,Delay,Car Used,Low,Medium,Single,Own,Unskilled,No,25,3,36.8,92.87324462,1,Ind,Good
+562,Low,Current,Other,No Acct,Unemployed,Single,Other,Unemployed,No,49,4,46.5,116.4114709,1,Ind,Good
+563,0Balance,Critical,Car New,Low,Long,Single,Own,Skilled,Yes,13,3,34,85.75499685,0,Ind,Bad
+564,0Balance,Current,Small Appliance,Low,Medium,Married,Own,Skilled,No,49,1,33,83.19533304,0,Same,Bad
+565,Low,Current,Small Appliance,Low,Medium,Divorced,Own,Unskilled,No,9,2,48.2,120.7498208,1,Different,Good
+566,0Balance,Bank Paid,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,25,1,58,145.6139219,1,Different,Good
+567,No Acct,All Paid,Small Appliance,Low,Medium,Single,Own,Unskilled,Yes,5,1,39.6,99.28324352,1,Ind,Good
+568,0Balance,Bank Paid,Business,Low,Medium,Divorced,Rent,Skilled,Yes,49,4,42.4,106.63544,1,Different,Good
+569,High,Current,Business,Low,Medium,Single,Rent,Skilled,No,16,4,31,78.05653188,1,Ind,Good
+570,No Acct,Current,Small Appliance,Low,Very Short,Divorced,Own,Skilled,No,13,2,32.1,80.80398413,1,Different,Good
+571,No Acct,All Paid,Small Appliance,No Acct,Medium,Single,Own,Skilled,Yes,31,3,36.8,92.81900576,1,Ind,Good
+572,Low,Current,Education,MedLow,Short,Single,Other,Skilled,Yes,37,4,46,115.422265,0,Ind,Bad
+573,No Acct,All Paid,Small Appliance,Low,Short,Single,Own,Skilled,Yes,19,2,30.4,76.29737804,1,Ind,Good
+574,Low,Current,Small Appliance,Low,Medium,Single,Rent,Skilled,No,37,4,29.7,75.20480361,1,Ind,Good
+575,No Acct,All Paid,Car Used,No Acct,Medium,Single,Other,Skilled,Yes,49,1,38.1,95.81738291,1,Ind,Good
+576,0Balance,Current,Car Used,No Acct,Long,Single,Other,Skilled,Yes,19,4,50,125.4445515,0,Ind,Bad
+577,Low,All Paid,Business,Low,Medium,Single,Own,Skilled,Yes,22,3,33.1,83.63049242,1,Ind,Good
+578,No Acct,Current,Car New,MedHigh,Short,Single,Rent,Unskilled,No,11,2,44,110.8842361,1,Ind,Good
+579,No Acct,Current,Furniture,Low,Short,Divorced,Own,Management,Yes,37,2,27,67.62105424,0,Different,Bad
+580,0Balance,Current,Furniture,No Acct,Short,Married,Own,Skilled,Yes,25,4,19,48.31215337,0,Same,Bad
+581,Low,Current,Furniture,MedLow,Very Short,Divorced,Rent,Skilled,Yes,13,4,26,65.96590385,0,Different,Bad
+582,0Balance,Critical,Furniture,MedHigh,Short,Divorced,Own,Skilled,Yes,34,4,22,55.82515576,0,Different,Bad
+583,Low,Bank Paid,Education,High,Very Short,Divorced,Rent,Skilled,Yes,7,2,23,57.76938247,0,Different,Bad
+584,No Acct,Current,Repairs,No Acct,Long,Single,Own,Skilled,No,28,4,57.4,143.6258769,1,Ind,Good
+585,Low,Current,Car New,Low,Medium,Single,Own,Skilled,No,13,2,35.3,89.19617198,1,Ind,Good
+586,Low,Current,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,49,2,25,63.06249414,0,Different,Bad
+587,Low,All Paid,Car New,Low,Medium,Single,Own,Unskilled,Yes,13,3,52.4,131.1204042,1,Ind,Good
+588,0Balance,Current,Car New,Low,Long,Single,Own,Skilled,Yes,25,1,44,110.176122,0,Ind,Bad
+589,Low,Current,Business,Low,Short,Married,Own,Skilled,No,10,1,32.9,82.79910014,1,Same,Good
+590,High,Current,Small Appliance,Low,Short,Single,Own,Skilled,No,37,2,25,63.28745094,0,Ind,Bad
+591,0Balance,All Paid,Business,Low,Very Short,Single,Own,Unskilled,Yes,14,1,35.8,90.44589338,1,Ind,Good
+592,0Balance,Current,Car New,Low,Short,Married,Own,Unskilled,Yes,13,3,26,65.93384478,0,Same,Bad
+593,No Acct,All Paid,Furniture,No Acct,Short,Married,Own,Skilled,Yes,11,1,34,85.08841319,1,Same,Good
+594,Low,Delay,Education,MedLow,Medium,Single,Rent,Skilled,No,40,3,33.6,84.52051466,1,Ind,Good
+595,No Acct,Bank Paid,Car New,Low,Long,Single,Own,Management,Yes,19,4,42.6,107.2085569,1,Ind,Good
+596,0Balance,Current,Furniture,MedLow,Unemployed,Divorced,Own,Skilled,No,25,1,34.5,86.38498169,1,Different,Good
+597,0Balance,Current,Small Appliance,Low,Short,Single,Own,Unskilled,Yes,13,3,23,57.87986696,0,Ind,Bad
+598,0Balance,Delay,Small Appliance,Low,Very Short,Married,Own,Skilled,No,25,4,50.6,126.6957127,1,Same,Good
+599,No Acct,Delay,Business,MedHigh,Very Short,Single,Own,Unskilled,No,22,2,42.7,106.8981527,1,Ind,Good
+600,Low,Delay,Car New,MedLow,Long,Single,Own,Management,No,37,4,45.1,113.0430819,1,Ind,Good
+601,No Acct,Delay,Business,Low,Very Short,Single,Rent,Skilled,No,25,2,33.5,84.47764147,1,Ind,Good
+602,0Balance,Delay,Car New,Low,Short,Single,Other,Skilled,No,25,4,52,130.5674741,0,Ind,Bad
+603,0Balance,Current,Furniture,MedLow,Unemployed,Married,Own,Skilled,No,25,1,32,80.88285036,0,Same,Bad
+604,Low,Current,Furniture,Low,Short,Single,Own,Unskilled,No,13,2,36,90.32718101,0,Ind,Bad
+605,High,Current,Small Appliance,Low,Short,Single,Own,Skilled,No,37,2,25,63.03047814,0,Ind,Bad
+606,No Acct,Current,Small Appliance,No Acct,Very Short,Divorced,Own,Skilled,No,25,1,44.1,110.3632507,1,Different,Good
+607,No Acct,Current,Business,Low,Unemployed,Single,Rent,Management,No,49,2,35.6,89.14326438,1,Ind,Good
+608,Low,Current,Furniture,MedLow,Very Short,Divorced,Rent,Skilled,Yes,13,4,26,65.42588521,0,Different,Bad
+609,0Balance,Current,Furniture,No Acct,Short,Married,Own,Skilled,Yes,25,4,19,48.35250996,0,Same,Bad
+610,No Acct,Current,Furniture,Low,Short,Divorced,Own,Management,Yes,37,2,27,67.69578002,0,Different,Bad
+611,Low,Current,Education,MedLow,Unemployed,Single,Other,Skilled,Yes,37,4,46,115.4157907,0,Ind,Bad
+612,0Balance,Current,Small Appliance,Low,Medium,Married,Own,Skilled,Yes,49,1,37.4,93.6068734,1,Same,Good
+613,Low,Current,Furniture,No Acct,Very Short,Divorced,Rent,Skilled,Yes,19,3,30.8,77.52144144,1,Different,Good
+614,Low,Current,Small Appliance,Low,Very Short,Married,Own,Skilled,Yes,25,1,27.8,69.67347956,1,Same,Good
+615,Low,Current,Business,Low,Short,Single,Own,Skilled,Yes,28,2,42.3,106.2946061,1,Ind,Good
+616,0Balance,Current,Education,No Acct,Long,Single,Own,Management,Yes,37,4,41,103.4736563,1,Ind,Good
+617,0Balance,Current,Car New,Low,Very Short,Divorced,Rent,Skilled,Yes,19,3,26.6,66.80425941,1,Different,Good
+618,0Balance,Current,Furniture,Low,Long,Single,Own,Skilled,Yes,37,2,46,115.6552168,1,Ind,Good
+619,Low,Critical,Small Appliance,MedHigh,Short,Single,Own,Unskilled,No,28,2,22,55.7496513,0,Ind,Bad
+620,0Balance,Critical,Education,Low,Short,Divorced,Own,Management,No,37,2,24,60.38566736,0,Different,Bad
+621,No Acct,Critical,Car New,Low,Short,Divorced,Own,Skilled,No,37,2,24,60.10603781,0,Different,Bad
+622,Low,Critical,Other,Low,Short,Single,Own,Management,Yes,25,3,38,95.92197045,0,Ind,Bad
+623,High,Critical,Education,Low,Very Short,Divorced,Rent,Skilled,Yes,22,1,32,80.64162721,0,Different,Bad
+624,High,Critical,Car New,No Acct,Medium,Single,Own,Unskilled,Yes,25,2,36,90.8369984,0,Ind,Bad
+625,No Acct,Critical,Car New,MedHigh,Short,Single,Other,Skilled,Yes,49,2,43,107.9897124,0,Ind,Bad
+626,Low,Delay,Business,No Acct,Short,Single,Other,Skilled,Yes,49,4,44.3,110.8486532,1,Ind,Good
+627,No Acct,Delay,Car Used,No Acct,Medium,Single,Own,Management,Yes,37,2,33.7,84.49224443,1,Ind,Good
+628,No Acct,Delay,Car Used,Low,Short,Married,Rent,Skilled,Yes,13,4,50.3,125.8591423,1,Same,Good
+629,No Acct,Delay,Furniture,MedHigh,Medium,Divorced,Own,Skilled,Yes,37,4,42.9,107.8321589,1,Different,Good
+630,Low,Current,Business,Low,Short,Married,Own,Skilled,Yes,10,1,31.2,78.85788035,1,Same,Good
+631,0Balance,Current,Car Used,Low,Short,Divorced,Own,Management,Yes,31,4,39,97.52331582,0,Different,Bad
+632,Low,Current,Car New,Low,Medium,Single,Own,Skilled,Yes,13,2,35.7,89.75593655,1,Ind,Good
+633,No Acct,Current,Repairs,No Acct,Long,Single,Own,Skilled,No,28,4,50.5,126.9686293,1,Ind,Good
+634,No Acct,Critical,Education,MedLow,Unemployed,Divorced,Own,Skilled,No,19,2,29,72.55732726,0,Different,Bad
+635,0Balance,Critical,Car Used,Low,Medium,Single,Own,Skilled,No,37,4,23,58.06491461,0,Ind,Bad
+636,Low,Critical,Car New,Low,Long,Single,Own,Skilled,No,19,4,35,88.19964644,0,Ind,Bad
+637,0Balance,Current,Car New,MedLow,Short,Single,Own,Unskilled,Yes,19,4,34,85.03856809,0,Ind,Bad
+638,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,16,3,50.9,127.9948841,1,Ind,Good
+639,Low,Current,Business,MedLow,Medium,Single,Own,Unskilled,Yes,13,4,47.3,119.1217169,1,Ind,Good
+640,No Acct,Current,Small Appliance,Low,Long,Single,Own,Skilled,No,37,2,27,68.39442652,0,Ind,Bad
+641,No Acct,Current,Furniture,MedHigh,Short,Divorced,Rent,Skilled,No,16,4,19,47.53397237,0,Different,Bad
+642,High,Current,Small Appliance,Low,Short,Divorced,Rent,Unskilled,No,13,2,45.9,115.4189501,1,Different,Good
+643,No Acct,Current,Car Used,Low,Short,Single,Other,Management,No,37,2,35.6,89.7353188,1,Ind,Good
+644,High,Current,Furniture,Low,Short,Single,Own,Skilled,No,25,2,25,62.95215488,0,Ind,Bad
+645,No Acct,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,13,1,28,70.35043167,1,Different,Good
+646,Low,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,No,7,3,63,157.6949518,0,Different,Bad
+647,0Balance,Current,Business,Low,Short,Married,Own,Unskilled,No,25,2,20,50.23923567,0,Same,Bad
+648,0Balance,Current,Furniture,Low,Short,Divorced,Own,Skilled,No,13,1,44.3,111.6496763,1,Different,Good
+649,0Balance,Current,Car Used,Low,Medium,Single,Own,Skilled,No,49,3,28.3,71.66823615,1,Ind,Good
+650,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,No,13,1,25.6,64.80061877,1,Different,Good
+651,Low,Current,Furniture,Low,Short,Divorced,Own,Unskilled,No,11,2,30,75.19972395,0,Different,Bad
+652,High,Current,Car New,High,Very Short,Married,Own,Unemployed,No,7,2,28.6,71.9108847,1,Same,Good
+653,No Acct,Current,Business,Low,Medium,Single,Own,Unskilled,No,6,4,77,193.3308539,1,Ind,Good
+654,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,25,2,27.3,68.29268504,1,Ind,Good
+655,0Balance,Current,Car New,Low,Medium,Divorced,Own,Unskilled,Yes,48,1,40.2,101.1147256,1,Different,Good
+656,No Acct,Current,Education,No Acct,Long,Single,Own,Unskilled,Yes,10,4,71.1,177.8703159,1,Ind,Good
+657,Low,Current,Furniture,High,Very Short,Divorced,Rent,Unskilled,Yes,13,4,22.2,55.76089437,1,Different,Good
+658,No Acct,Current,Small Appliance,MedLow,Unemployed,Divorced,Own,Skilled,Yes,14,4,64.1,160.4311769,1,Different,Good
+659,No Acct,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,19,2,32.3,81.37343135,1,Ind,Good
+660,0Balance,Current,Car Used,MedHigh,Unemployed,Divorced,Rent,Unemployed,Yes,7,2,26.1,65.984376,1,Different,Good
+661,No Acct,Current,Small Appliance,Low,Short,Single,Own,Skilled,Yes,13,4,55.9,140.0880591,1,Ind,Good
+662,0Balance,Current,Furniture,Low,Medium,Divorced,Rent,Unskilled,Yes,22,4,33.4,84.03594135,1,Different,Good
+663,No Acct,Current,Car New,No Acct,Long,Divorced,Other,Management,Yes,13,4,55.7,139.5188897,1,Different,Good
+664,No Acct,Current,Car Used,MedLow,Long,Single,Own,Management,Yes,40,2,46.3,116.1207266,1,Ind,Good
+665,No Acct,Current,Furniture,Low,Very Short,Divorced,Rent,Unskilled,Yes,5,3,22,55.29586408,0,Different,Bad
+666,Low,Current,Small Appliance,Low,Medium,Married,Own,Unskilled,Yes,7,3,33,83.17994056,1,Same,Good
+667,0Balance,Current,Car Used,Low,Unemployed,Single,Other,Management,Yes,25,2,28,70.06023661,0,Ind,Bad
+668,No Acct,Current,Small Appliance,No Acct,Long,Single,Own,Skilled,Yes,16,2,38.5,96.35653123,1,Ind,Good
+669,Low,Current,Business,Low,Very Short,Divorced,Own,Skilled,Yes,28,1,31,77.69747596,0,Different,Bad
+670,No Acct,Current,Furniture,MedLow,Very Short,Divorced,Rent,Skilled,Yes,10,4,21,52.72570583,0,Different,Bad
+671,No Acct,Current,Small Appliance,MedLow,Medium,Single,Own,Skilled,Yes,13,1,34.8,87.31560232,1,Ind,Good
+672,No Acct,Current,Car New,MedHigh,Medium,Divorced,Own,Management,Yes,22,2,37,93.01420911,1,Different,Good
+673,No Acct,Current,Furniture,MedHigh,Long,Single,Rent,Skilled,Yes,25,3,38.4,96.80687949,1,Ind,Good
+674,0Balance,Current,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,16,1,50,125.9659303,1,Different,Good
+675,No Acct,Current,Furniture,Low,Very Short,Single,Own,Unskilled,Yes,16,3,32.2,80.77317064,1,Ind,Good
+676,0Balance,Current,Furniture,Low,Long,Divorced,Own,Skilled,Yes,7,1,52.1,130.455465,1,Different,Good
+677,No Acct,Current,Education,Low,Very Short,Divorced,Own,Skilled,Yes,7,2,63.5,158.8780965,1,Different,Good
+678,No Acct,Current,Car New,No Acct,Short,Single,Other,Skilled,Yes,61,4,38.5,96.97995492,1,Ind,Good
+679,High,Current,Car New,Low,Long,Divorced,Own,Management,Yes,19,2,26.6,66.6152422,1,Different,Good
+680,Low,Current,Education,No Acct,Short,Married,Own,Skilled,Yes,37,2,26,65.64957418,0,Same,Bad
+681,No Acct,Current,Furniture,Low,Short,Single,Rent,Skilled,Yes,19,4,46,115.424593,0,Ind,Bad
+682,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,37,4,39.9,100.5645335,1,Ind,Good
+683,0Balance,Current,Furniture,High,Short,Single,Own,Skilled,Yes,19,2,27,68.30096748,0,Ind,Bad
+684,High,Current,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,11,2,22,55.08796365,0,Different,Bad
+685,No Acct,Current,Car New,Low,Short,Single,Rent,Skilled,Yes,7,3,25,62.9061553,0,Ind,Bad
+686,0Balance,Current,Furniture,Low,Short,Single,Own,Skilled,Yes,37,2,36,90.45641933,0,Ind,Bad
+687,No Acct,Current,Car New,Low,Unemployed,Divorced,Own,Unemployed,Yes,7,4,58.3,146.2153846,1,Different,Good
+688,Low,Current,Repairs,Low,Unemployed,Divorced,Own,Skilled,Yes,19,4,67.7,170.2485796,1,Different,Good
+689,Low,Current,Car New,No Acct,Medium,Divorced,Own,Skilled,Yes,49,2,29.1,73.49667057,1,Different,Good
+690,0Balance,Current,Other,Low,Medium,Divorced,Own,Management,Yes,37,3,49.3,123.9253022,1,Different,Good
+691,No Acct,Current,Car New,No Acct,Short,Single,Own,Skilled,Yes,37,4,35,87.95354286,0,Ind,Bad
+692,No Acct,Current,Furniture,MedHigh,Long,Single,Own,Skilled,Yes,25,4,59.4,148.6272098,1,Ind,Good
+693,High,Current,Small Appliance,Low,Short,Married,Own,Skilled,Yes,13,1,27.2,68.02134337,1,Same,Good
+694,No Acct,Current,Small Appliance,No Acct,Medium,Single,Own,Skilled,Yes,49,3,36,90.32043775,0,Ind,Bad
+695,0Balance,Current,Small Appliance,MedHigh,Long,Married,Own,Skilled,Yes,13,1,34,85.38395573,0,Same,Bad
+696,No Acct,Current,Car New,MedHigh,Long,Single,Own,Skilled,Yes,37,4,40,100.4793035,1,Ind,Good
+697,No Acct,Current,Car Used,No Acct,Short,Divorced,Other,Skilled,No,25,4,47,118.2579405,0,Different,Bad
+698,Low,Current,Small Appliance,Low,Very Short,Divorced,Own,Skilled,No,8,1,54.8,137.1949085,1,Different,Good
+699,No Acct,Current,Furniture,MedLow,Short,Single,Own,Skilled,No,25,1,24,60.92301053,0,Ind,Bad
+700,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,No,7,2,55.5,139.2133029,1,Ind,Good
+701,Low,Current,Small Appliance,Low,Long,Married,Own,Unskilled,No,19,2,40.6,101.879542,1,Same,Bad
+702,0Balance,Current,Small Appliance,High,Very Short,Divorced,Own,Skilled,No,22,2,34.1,85.8376214,1,Different,Bad
+703,No Acct,Current,Car New,No Acct,Medium,Divorced,Rent,Skilled,No,23,4,27.9,69.93262755,1,Different,Bad
+704,Low,Current,Car Used,No Acct,Short,Single,Own,Skilled,No,13,2,29,72.92362507,0,Ind,Good
+705,No Acct,Current,Large Appliance,MedHigh,Medium,Single,Own,Skilled,No,16,3,41.1,103.6840934,1,Ind,Good
+706,0Balance,Current,Furniture,Low,Short,Single,Own,Unskilled,No,7,2,35,87.88281943,0,Ind,Bad
+707,0Balance,Current,Car Used,Low,Long,Single,Other,Skilled,No,37,4,49.3,124.2438329,1,Ind,Bad
+708,No Acct,Current,Small Appliance,No Acct,Short,Single,Other,Skilled,No,13,4,36,90.20413593,0,Ind,Bad
+709,Low,Current,Small Appliance,Low,Long,Single,Own,Unskilled,No,10,4,26,65.01921175,0,Ind,Good
+710,Low,Current,Car New,Low,Very Short,Single,Rent,Skilled,No,25,1,33.1,83.40614296,1,Ind,Bad
+711,No Acct,Current,Furniture,MedLow,Short,Single,Own,Skilled,Yes,25,1,26.1,65.56794023,1,Ind,Bad
+712,0Balance,Current,Car New,Low,Long,Single,Other,Management,Yes,49,4,41,102.6758507,0,Ind,Good
+713,No Acct,All Paid,Repairs,No Acct,Medium,Divorced,Own,Skilled,No,13,4,21.4,54.40695141,1,Different,Bad
+714,No Acct,Current,Small Appliance,Low,Short,Single,Own,Skilled,No,11,4,44.5,111.2869091,1,Ind,Good
+715,0Balance,Current,Car New,Low,Long,Divorced,Own,Management,No,15,4,46.4,116.4273796,1,Different,Bad
+716,Low,Current,Car New,No Acct,Short,Divorced,Own,Skilled,No,49,2,34,85.02498477,1,Different,Bad
+717,0Balance,Current,Small Appliance,No Acct,Medium,Divorced,Own,Management,No,43,3,34.3,85.85994172,1,Different,Bad
+718,Low,Current,Furniture,Low,Very Short,Married,Own,Skilled,Yes,31,1,24.7,62.17852143,1,Same,Bad
+719,0Balance,Current,Small Appliance,MedLow,Very Short,Married,Own,Unskilled,Yes,13,3,32,80.35377552,0,Same,Good
+720,0Balance,All Paid,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,19,4,22.7,56.79179284,1,Different,Bad
+721,0Balance,Current,Furniture,Low,Very Short,Single,Other,Skilled,Yes,25,1,25.4,63.59231684,1,Ind,Bad
+722,No Acct,All Paid,Business,Low,Short,Divorced,Own,Skilled,No,13,2,25.8,64.54536461,1,Different,Good
+723,0Balance,Current,Furniture,Low,Long,Single,Other,Management,No,13,4,52,130.0802612,0,Ind,Bad
+724,0Balance,Current,Business,Low,Short,Married,Own,Unskilled,No,25,2,24.3,61.15211564,1,Same,Good
+725,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,25,2,34,85.2633222,0,Ind,Good
+726,No Acct,Current,Car Used,Low,Short,Single,Other,Management,No,37,2,30.3,76.2698938,1,Ind,Good
+727,High,Current,Small Appliance,Low,Short,Divorced,Rent,Unskilled,No,13,2,43,107.6018317,0,Different,Bad
+728,0Balance,Current,Car New,Low,Short,Single,Own,Unskilled,Yes,29,2,51.5,129.4962168,1,Ind,Good
+729,0Balance,Current,Car New,No Acct,Short,Divorced,Rent,Skilled,Yes,25,4,28.6,72.42037776,1,Different,Good
+730,0Balance,Current,Furniture,Low,Very Short,Divorced,Rent,Unskilled,Yes,25,4,25.5,64.42022183,1,Different,Good
+731,Low,Current,Other,Low,Short,Single,Own,Management,No,25,3,30.2,75.79317093,1,Ind,Good
+732,Low,Current,Small Appliance,MedLow,Short,Married,Own,Skilled,No,73,2,29.7,74.370544,1,Same,Good
+733,Low,Current,Small Appliance,MedLow,Short,Single,Rent,Skilled,Yes,46,4,22.1,55.64084652,1,Ind,Good
+734,No Acct,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,19,2,34.2,86.17099542,1,Ind,Good
+735,0Balance,Bank Paid,Small Appliance,Low,Medium,Single,Own,Unskilled,Yes,25,4,24.6,62.1690753,1,Ind,Good
+736,High,Delay,Car New,Low,Short,Divorced,Own,Skilled,Yes,13,2,35,87.74144469,0,Different,Bad
+737,0Balance,Current,Car New,Low,Short,Married,Own,Unskilled,Yes,13,3,30.5,76.52045841,1,Same,Good
+738,0Balance,Current,Car New,MedLow,Short,Single,Own,Unskilled,No,19,4,34.5,87.00483195,1,Ind,Good
+739,0Balance,Current,Car Used,Low,Short,Divorced,Own,Management,No,31,4,40.1,100.675276,1,Different,Good
+740,Low,Current,Furniture,Low,Short,Single,Own,Unskilled,No,13,2,42.3,106.5444709,1,Ind,Good
+741,0Balance,Current,Car New,Low,Long,Single,Own,Skilled,Yes,25,1,47,118.0470477,1,Ind,Good
+742,Low,Current,Furniture,Low,Very Short,Divorced,Own,Skilled,Yes,49,2,26.1,65.40184878,1,Different,Good
+743,0Balance,Current,Car Used,No Acct,Long,Single,Other,Skilled,Yes,19,4,49.8,125.4402054,1,Ind,Good
+744,No Acct,Current,Car New,MedLow,Short,Single,Rent,Unskilled,Yes,11,2,34,85.20105473,0,Ind,Bad
+745,0Balance,Current,Furniture,Low,Very Short,Single,Other,Skilled,No,25,1,23.8,60.2230272,1,Ind,Good
+746,No Acct,Current,Business,Low,Medium,Single,Own,Skilled,Yes,19,1,33,83.23324489,0,Ind,Bad
+747,Low,Current,Small Appliance,Low,Short,Single,Own,Skilled,Yes,10,3,23.1,58.1844018,1,Ind,Good
+748,No Acct,Current,Small Appliance,Low,Long,Single,Own,Management,Yes,25,1,35,87.88856673,0,Ind,Bad
+749,Low,Current,Other,Low,Short,Single,Own,Management,No,25,3,28.9,72.62634899,1,Ind,Good
+750,Low,Current,Business,Low,Very Short,Married,Own,Skilled,No,9,2,28.5,71.40437163,1,Same,Good
+751,Low,Critical,Education,Low,Long,Divorced,Own,Management,Yes,10,3,33,82.78973924,0,Different,Bad
+752,0Balance,Critical,Car New,Low,Short,Divorced,Own,Skilled,Yes,13,2,28,70.97536355,0,Different,Bad
+753,0Balance,Current,Furniture,Low,Very Short,Divorced,Own,Unskilled,Yes,31,4,39.4,98.90877313,1,Different,Good
+754,No Acct,Current,Small Appliance,No Acct,Medium,Single,Own,Skilled,No,49,3,41,103.1915891,1,Ind,Good
+755,No Acct,Current,Small Appliance,Low,Long,Single,Own,Management,No,25,1,36,90.22248424,1,Ind,Good
+756,0Balance,Current,Car New,Low,Very Short,Divorced,Own,Unskilled,Yes,48,1,35,87.72209729,1,Different,Good
+757,0Balance,Current,Small Appliance,MedLow,Short,Divorced,Own,Unskilled,Yes,25,2,31,77.6969762,0,Different,Bad
+758,Low,Current,Car Used,Low,Very Short,Married,Rent,Management,Yes,37,4,27,68.41993034,0,Same,Bad
+759,0Balance,Current,Furniture,Low,Short,Divorced,Own,Skilled,Yes,13,1,41,102.7772686,0,Different,Bad
+760,No Acct,Current,Car New,No Acct,Short,Single,Own,Unskilled,Yes,11,4,151,124.44,1,Ind,Good
+761,0Balance,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,43,3,33,83.30916481,0,Ind,Bad
+762,0Balance,Current,Car New,Low,Medium,Divorced,Rent,Skilled,No,25,4,23.4,58.8495097,1,Different,Good
+763,Low,Current,Car Used,MedHigh,Very Short,Divorced,Rent,Skilled,Yes,25,4,27,67.74549025,0,Different,Bad
+764,0Balance,Current,Furniture,No Acct,Long,Single,Own,Skilled,Yes,31,4,30,75.91385098,0,Ind,Bad
+765,0Balance,Current,Car New,Low,Long,Single,Own,Management,Yes,7,4,71.7,180.1368481,1,Ind,Good
+766,0Balance,Current,Large Appliance,MedLow,Unemployed,Divorced,Own,Skilled,Yes,13,3,24.2,61.35146461,1,Different,Good
+767,0Balance,Bank Paid,Car New,No Acct,Short,Single,Own,Unskilled,No,22,2,39,98.15836973,0,Ind,Bad
+768,No Acct,Current,Business,Low,Unemployed,Single,Rent,Management,Yes,49,2,32,80.51201013,0,Ind,Bad
+769,0Balance,Current,Car New,Low,Very Short,Divorced,Own,Unskilled,Yes,19,2,28.5,71.96476146,1,Different,Good
+770,No Acct,All Paid,Furniture,No Acct,Short,Married,Own,Skilled,No,11,1,25,62.80917528,0,Same,Bad
+771,Low,All Paid,Car New,Low,Medium,Single,Own,Unskilled,No,13,3,46,115.4216883,0,Ind,Bad
+772,No Acct,All Paid,Small Appliance,Low,Short,Single,Own,Skilled,No,19,2,23,58.37345611,0,Ind,Bad
+773,0Balance,Bank Paid,Car New,No Acct,Short,Single,Own,Unskilled,Yes,22,2,39,97.52864168,0,Ind,Bad
+774,0Balance,Current,Furniture,Low,Long,Single,Own,Skilled,Yes,37,2,40,100.3580257,0,Ind,Bad
+775,Low,Current,Business,Low,Short,Single,Own,Skilled,No,28,2,35,88.1592147,0,Ind,Bad
+776,No Acct,Current,Small Appliance,Low,Short,Single,Other,Management,No,19,2,31,78.12974802,0,Ind,Bad
+777,No Acct,Current,Small Appliance,Low,Short,Single,Own,Skilled,No,11,4,37,93.1379288,0,Ind,Bad
+778,No Acct,Current,Education,No Acct,Short,Single,Other,Unskilled,No,37,4,42.2,105.5187474,1,Ind,Good
+779,Low,Current,Furniture,MedLow,Short,Divorced,Rent,Skilled,Yes,31,4,28.9,72.76727567,1,Different,Good
+780,Low,Current,Repairs,Low,Very Short,Single,Rent,Unskilled,Yes,37,1,32,80.56935127,0,Ind,Bad
+781,No Acct,Current,Furniture,Low,Very Short,Married,Own,Unskilled,Yes,19,1,49,122.7878074,1,Same,Good
+782,Low,Current,Furniture,Low,Medium,Divorced,Own,Skilled,No,25,3,44.2,110.8277778,1,Different,Good
+783,Low,Current,Car New,Low,Short,Divorced,Own,Skilled,Yes,31,2,28.5,71.63609888,1,Different,Good
+784,No Acct,Current,Small Appliance,No Acct,Very Short,Divorced,Own,Skilled,Yes,25,1,43,107.6449856,0,Different,Bad
+785,High,Current,Car New,Low,Medium,Single,Other,Skilled,Yes,25,3,38.5,96.74733868,1,Ind,Good
+786,Low,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,13,1,26,65.62399091,1,Ind,Good
+787,Low,Delay,Furniture,Low,Unemployed,Single,Own,Management,No,7,1,35.9,89.98880706,1,Ind,Good
+788,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,Yes,13,4,42,105.7247483,0,Ind,Bad
+789,0Balance,Critical,Car New,Low,Long,Divorced,Rent,Skilled,Yes,19,4,32,80.02011748,0,Different,Bad
+790,Low,Critical,Small Appliance,Low,Very Short,Single,Own,Unskilled,Yes,46,2,24,60.42955026,0,Ind,Bad
+791,0Balance,Critical,Car Used,Low,Long,Divorced,Other,Unskilled,Yes,49,4,57,142.8627306,0,Different,Bad
+792,0Balance,Current,Furniture,Low,Medium,Single,Own,Skilled,No,37,2,42.8,107.6293084,1,Ind,Good
+793,Low,Bank Paid,Business,MedLow,Medium,Single,Own,Skilled,Yes,49,2,33.3,83.28487537,1,Ind,Good
+794,No Acct,Delay,Car Used,No Acct,Medium,Single,Own,Management,Yes,37,2,35.4,88.60932676,1,Ind,Good
+795,0Balance,Delay,Small Appliance,Low,Medium,Single,Own,Skilled,No,43,2,25,63.26311296,0,Ind,Bad
+796,No Acct,All Paid,Small Appliance,No Acct,Long,Single,Other,Skilled,Yes,7,4,42.9,107.5205625,1,Ind,Good
+797,No Acct,Current,Car Used,MedLow,Long,Single,Own,Management,Yes,40,2,47.5,119.7479191,1,Ind,Good
+798,0Balance,Current,Small Appliance,Low,Very Short,Single,Own,Skilled,Yes,43,3,39.8,100.0567301,1,Ind,Good
+799,Low,Current,Car New,Low,Very Short,Divorced,Rent,Skilled,Yes,13,1,24,60.74368238,0,Different,Bad
+800,Low,All Paid,Small Appliance,No Acct,Long,Single,Own,Skilled,No,16,4,53.5,134.2789032,1,Ind,Good
+801,Low,Delay,Business,MedLow,Medium,Single,Rent,Management,Yes,25,4,40.2,101.3870978,1,Ind,Good
+802,0Balance,Current,Car New,Low,Very Short,Single,Own,Unskilled,No,13,1,32,80.19634314,0,Ind,Bad
+803,Low,All Paid,Small Appliance,Low,Long,Single,Own,Unskilled,No,10,4,40.6,102.3413241,1,Ind,Good
+804,0Balance,Current,Car Used,Low,Long,Single,Other,Skilled,Yes,13,4,34,85.88803922,0,Ind,Bad
+805,0Balance,All Paid,Repairs,MedLow,Long,Single,Own,Skilled,Yes,10,4,55,137.7225685,1,Ind,Good
+806,0Balance,Current,Small Appliance,Low,Short,Single,Own,Unskilled,Yes,13,3,23,58.09002333,0,Ind,Bad
+807,0Balance,Current,Retraining,Low,Medium,Married,Rent,Skilled,No,13,4,24.1,60.77073116,1,Same,Good
+808,Low,Bank Paid,Car New,MedLow,Unemployed,Single,Own,Management,Yes,16,2,37.2,93.24106946,1,Ind,Good
+809,No Acct,Current,Education,No Acct,Long,Single,Own,Unskilled,Yes,10,4,69.4,173.7378314,1,Ind,Good
+810,No Acct,All Paid,Small Appliance,Low,Short,Single,Other,Skilled,Yes,16,4,42.7,107.3479878,1,Ind,Good
+811,No Acct,Delay,Business,MedHigh,Very Short,Single,Own,Unskilled,Yes,22,2,45.3,113.4588644,1,Ind,Good
+812,No Acct,Current,Small Appliance,Low,Medium,Single,Own,Skilled,Yes,25,2,38.5,96.43718421,1,Ind,Good
+813,No Acct,Delay,Furniture,Low,Medium,Divorced,Own,Skilled,Yes,19,1,21,52.79600181,0,Different,Bad
+814,Low,Current,Small Appliance,No Acct,Unemployed,Single,Own,Management,Yes,13,1,51,128.1287576,0,Ind,Bad
+815,0Balance,Bank Paid,Car New,Low,Unemployed,Divorced,Rent,Unemployed,Yes,25,4,36,90.52541561,1,Different,Good
+816,0Balance,Current,Car New,No Acct,Short,Divorced,Rent,Skilled,Yes,25,4,24,60.07838395,0,Different,Bad
+817,Low,Critical,Car New,MedLow,Very Short,Divorced,Own,Skilled,Yes,19,3,27,68.48996959,0,Different,Bad
+818,Low,All Paid,Business,No Acct,Medium,Single,Own,Skilled,Yes,25,3,38,95.35297482,1,Ind,Good
+819,No Acct,Delay,Car Used,High,Short,Single,Own,Skilled,No,28,2,34.8,87.39810818,1,Ind,Good
+820,0Balance,Current,Furniture,Low,Very Short,Divorced,Rent,Unskilled,Yes,25,4,22,55.01366183,0,Different,Bad
+821,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,Yes,7,4,32.2,81.03993437,1,Ind,Good
+822,No Acct,All Paid,Small Appliance,High,Long,Single,Own,Skilled,Yes,19,4,52.4,131.2535701,1,Ind,Good
+823,No Acct,Current,Furniture,Low,Very Short,Married,Own,Unskilled,Yes,19,1,42,105.0028789,0,Same,Bad
+824,No Acct,Current,Furniture,Low,Medium,Divorced,Own,Unskilled,Yes,13,4,38,95.79473744,1,Different,Good
+825,No Acct,Current,Business,Low,Medium,Single,Own,Unskilled,Yes,6,4,80.8,202.9749739,1,Ind,Good
+826,No Acct,Delay,Business,Low,Very Short,Divorced,Own,Skilled,Yes,37,1,27,67.69036236,0,Different,Bad
+827,0Balance,All Paid,Car New,Low,Long,Single,Own,Skilled,Yes,22,4,69.4,174.1127858,1,Ind,Good
+828,No Acct,All Paid,Small Appliance,MedHigh,Long,Single,Own,Management,Yes,19,3,36.4,91.56318569,1,Ind,Good
+829,High,All Paid,Car Used,MedHigh,Short,Single,Own,Skilled,Yes,16,2,41.5,104.4388157,1,Ind,Good
+830,Low,All Paid,Furniture,High,Medium,Single,Own,Skilled,Yes,22,2,39.7,99.48135268,1,Ind,Good
+831,No Acct,All Paid,Repairs,Low,Short,Divorced,Own,Skilled,Yes,25,2,34.4,86.88624258,1,Different,Good
+832,High,Current,Car New,High,Very Short,Married,Own,Unemployed,Yes,7,2,33.6,84.7228382,1,Same,Good
+833,0Balance,All Paid,Car New,Low,Very Short,Single,Own,Unskilled,No,7,4,48.2,120.5541121,1,Ind,Good
+834,No Acct,All Paid,Car New,Low,Unemployed,Divorced,Own,Unemployed,Yes,13,2,39.4,99.25650142,1,Different,Good
+835,Low,Current,Furniture,Low,Short,Divorced,Own,Unskilled,Yes,11,2,30,75.84515448,0,Different,Bad
+836,Low,Current,Repairs,Low,Very Short,Single,Rent,Unskilled,Yes,37,1,37,92.89105371,1,Ind,Good
+837,0Balance,Current,Small Appliance,Low,Long,Single,Own,Unskilled,Yes,13,4,57.4,144.0070278,1,Ind,Good
+838,Low,Delay,Car Used,Low,Long,Single,Own,Management,No,28,2,33.1,82.95353881,1,Ind,Good
+839,0Balance,Current,Small Appliance,Low,Short,Divorced,Own,Skilled,Yes,13,1,28.4,71.86393701,1,Different,Good
+840,0Balance,Current,Small Appliance,Low,Very Short,Divorced,Rent,Skilled,Yes,10,4,21,52.56134928,0,Different,Bad
+841,0Balance,Current,Car Used,Low,Medium,Single,Own,Skilled,Yes,49,3,33.6,84.73153909,1,Ind,Good
+842,Low,Current,Business,MedLow,Long,Divorced,Rent,Unskilled,Yes,22,2,60,150.5803587,0,Different,Bad
+843,0Balance,Critical,Furniture,Low,Long,Single,Rent,Skilled,Yes,25,4,22,55.98546097,0,Ind,Bad
+844,Low,Current,Small Appliance,MedHigh,Short,Single,Own,Unskilled,Yes,13,3,65,162.8164001,0,Ind,Bad
+845,0Balance,Current,Repairs,Low,Very Short,Divorced,Own,Unskilled,Yes,31,1,33,83.22729844,0,Different,Bad
+846,No Acct,Current,Car New,Low,Short,Divorced,Rent,Skilled,Yes,28,3,20,50.96267955,0,Different,Bad
+847,0Balance,Critical,Furniture,MedHigh,Short,Divorced,Own,Skilled,No,34,4,22,55.56782135,0,Different,Bad
+848,0Balance,Critical,Car New,Low,Long,Single,Own,Skilled,No,13,3,34,85.33382958,0,Ind,Bad
+849,Low,Critical,Furniture,Low,Medium,Single,Rent,Skilled,No,31,2,48,120.0243832,0,Ind,Bad
+850,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,No,17,4,42,105.0934194,0,Ind,Bad
+851,0Balance,Critical,Furniture,Low,Long,Single,Own,Skilled,No,13,3,59,148.3950335,0,Ind,Bad
+852,Low,Current,Small Appliance,Low,Long,Single,Own,Skilled,Yes,10,3,33.9,85.60532665,1,Ind,Good
+853,0Balance,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,13,4,47,117.7451134,0,Ind,Bad
+854,No Acct,Critical,Business,Low,Short,Single,Own,Skilled,Yes,19,2,35,88.1515951,0,Ind,Bad
+855,No Acct,Current,Small Appliance,MedHigh,Long,Single,Own,Skilled,Yes,37,4,44.3,111.7059129,1,Ind,Good
+856,0Balance,Critical,Car New,Low,Short,Divorced,Own,Skilled,Yes,13,2,28,70.36894154,0,Different,Bad
+857,No Acct,Current,Furniture,Low,Short,Single,Other,Skilled,Yes,19,4,46,115.1531447,0,Ind,Bad
+858,Low,Current,Education,No Acct,Short,Married,Own,Skilled,Yes,37,2,26,65.93486736,0,Same,Bad
+859,Low,Critical,Education,Low,Long,Divorced,Own,Management,Yes,10,3,33,82.88939841,0,Different,Bad
+860,No Acct,All Paid,Car New,Low,Short,Divorced,Own,Skilled,Yes,19,3,39.7,100.1678299,1,Different,Good
+861,0Balance,Current,Retraining,Low,Medium,Married,Rent,Skilled,No,13,4,23.9,59.98618646,1,Same,Good
+862,No Acct,Critical,Furniture,Low,Very Short,Divorced,Rent,Skilled,Yes,37,4,22,55.55138541,0,Different,Bad
+863,No Acct,Critical,Car New,Low,Medium,Single,Own,Skilled,Yes,19,2,30,75.84765057,0,Ind,Bad
+864,0Balance,Critical,Car Used,Low,Long,Single,Other,Skilled,Yes,49,4,45,113.3445109,0,Ind,Bad
+865,0Balance,Critical,Furniture,Low,Short,Divorced,Rent,Skilled,Yes,19,4,23,58.34109583,0,Different,Bad
+866,High,Critical,Car New,MedHigh,Medium,Married,Own,Skilled,Yes,13,2,27,68.44750357,0,Same,Bad
+867,0Balance,Critical,Education,Low,Short,Single,Own,Skilled,Yes,41,3,26,65.92786074,0,Ind,Bad
+868,0Balance,Critical,Car New,Low,Long,Single,Own,Unskilled,Yes,25,4,59,148.338867,0,Ind,Bad
+869,High,Critical,Small Appliance,No Acct,Short,Single,Other,Skilled,Yes,16,4,38,95.18911538,0,Ind,Bad
+870,Low,Critical,Small Appliance,Low,Short,Married,Own,Skilled,Yes,19,2,32,80.30476739,0,Same,Bad
+871,No Acct,Critical,Small Appliance,No Acct,Long,Divorced,Own,Unskilled,Yes,13,3,32,80.80288273,0,Different,Bad
+872,Low,Critical,Furniture,Low,Very Short,Divorced,Own,Unskilled,Yes,25,4,24,60.42302089,0,Different,Bad
+873,No Acct,Bank Paid,Car New,Low,Long,Single,Own,Skilled,No,19,4,40.4,101.8577453,1,Ind,Good
+874,Low,Bank Paid,Education,High,Very Short,Divorced,Rent,Skilled,No,7,2,23,57.98845821,0,Different,Bad
+875,0Balance,Bank Paid,Business,Low,Medium,Divorced,Rent,Skilled,No,49,4,40.8,102.6616525,1,Different,Good
+876,0Balance,Bank Paid,Furniture,Low,Very Short,Divorced,Own,Skilled,No,25,1,64.1,160.4794838,1,Different,Good
+877,0Balance,Bank Paid,Business,Low,Short,Single,Rent,Skilled,No,25,2,38,95.78680059,1,Ind,Good
+878,No Acct,Bank Paid,Car Used,No Acct,Unemployed,Divorced,Own,Management,No,31,1,52,130.722207,0,Different,Bad
+879,0Balance,Bank Paid,Furniture,MedHigh,Very Short,Single,Other,Skilled,No,25,4,29,73.16680197,0,Ind,Bad
+880,High,Bank Paid,Business,Low,Very Short,Divorced,Own,Unemployed,No,13,1,30.8,77.93717359,1,Different,Good
+881,0Balance,Bank Paid,Other,No Acct,Long,Single,Own,Management,No,25,3,49.9,125.1738525,1,Ind,Good
+882,Low,Bank Paid,Car New,MedLow,Short,Married,Rent,Skilled,Yes,16,2,27.3,69.20304049,1,Same,Good
+883,0Balance,Bank Paid,Car New,Low,Unemployed,Divorced,Rent,Unemployed,Yes,25,4,34.6,86.51164067,1,Different,Good
+884,Low,Bank Paid,Car New,MedLow,Unemployed,Single,Own,Management,Yes,16,2,35.1,88.20964966,1,Ind,Good
+885,Low,Bank Paid,Car New,MedLow,Very Short,Divorced,Own,Unskilled,Yes,7,1,38,95.03951776,1,Different,Good
+886,0Balance,Bank Paid,Small Appliance,Low,Short,Divorced,Own,Unskilled,Yes,13,4,29.2,73.1028828,1,Different,Good
+887,0Balance,Bank Paid,Furniture,Low,Short,Single,Own,Skilled,Yes,19,3,47.6,119.4099134,1,Ind,Good
+888,Low,Bank Paid,Other,MedLow,Long,Divorced,Other,Management,Yes,61,4,65,162.6293193,1,Different,Good
+889,0Balance,Bank Paid,Car New,Low,Medium,Single,Rent,Unskilled,Yes,19,4,40.8,102.1013674,1,Ind,Good
+890,0Balance,Bank Paid,Car New,Low,Very Short,Single,Own,Skilled,Yes,13,2,48.6,121.8126028,1,Ind,Good
+891,0Balance,Bank Paid,Furniture,Low,Long,Single,Own,Skilled,Yes,37,4,34.5,87.19644447,1,Ind,Good
+892,Low,Bank Paid,Business,Low,Long,Divorced,Rent,Skilled,Yes,49,3,63.8,160.4275334,1,Different,Good
+893,0Balance,Bank Paid,Furniture,Low,Medium,Single,Own,Skilled,Yes,25,4,35.8,90.22899302,1,Ind,Good
+894,Low,Bank Paid,Car New,MedLow,Medium,Single,Own,Skilled,Yes,10,3,33.3,83.67083013,1,Ind,Good
+895,0Balance,Bank Paid,Education,Low,Long,Divorced,Other,Skilled,Yes,7,4,39.3,98.27936643,1,Different,Good
+896,Low,Bank Paid,Education,Low,Medium,Divorced,Other,Unskilled,Yes,25,4,37.6,94.81432663,1,Different,Good
+897,0Balance,Critical,Car New,Low,Long,Single,Rent,Skilled,Yes,16,3,32,80.78968775,0,Ind,Bad
+898,Low,Critical,Business,Low,Short,Single,Own,Unskilled,Yes,25,4,35,88.17547597,0,Ind,Bad
+899,0Balance,Critical,Furniture,Low,Long,Single,Rent,Skilled,Yes,25,4,22,55.42606524,0,Ind,Bad
+900,Low,Critical,Car New,MedLow,Very Short,Divorced,Own,Skilled,Yes,19,3,27,68.06389158,0,Different,Bad
+901,No Acct,Critical,Car New,No Acct,Short,Divorced,Own,Skilled,Yes,22,4,28,70.67704563,0,Different,Bad
+902,Low,Critical,Car New,Low,Very Short,Divorced,Rent,Unemployed,Yes,16,1,25,62.54889328,0,Different,Bad
+903,No Acct,Critical,Business,Low,Short,Single,Own,Skilled,Yes,19,2,35,87.87079829,0,Ind,Bad
+904,0Balance,Critical,Car New,Low,Short,Single,Own,Skilled,Yes,13,4,47,117.992934,0,Ind,Bad
